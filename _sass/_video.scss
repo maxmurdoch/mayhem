@@ -1,0 +1,25 @@
+.videoOuterContainer {
+  display: block;
+  width: 100%;
+}
+
+.videoInnerContainer {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  max-width: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.video, .videoContainer object, .videoContainer embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.video-wrapper {
+  background: white !important;
+}
