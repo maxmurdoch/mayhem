@@ -1,12 +1,16 @@
-<header class="flex flex-column flex-row-ns justify-between-ns pv2 pa3-ns mw-100 w-100" role="banner">
-  <h1 class="flex-auto w-50-ns f3 fw6 ma0 pa2">
-    <a class="link black-80" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
-  </h1>
+<header class="container" role="banner">
+  <div class="wrapper">
+    <div class="flex flex-column flex-row-ns justify-between-ns pa0 mw-100 w-100 pr3 pr3-m pr4-l">
+      <h1 class="flex-auto w-50-ns f4 fw3 ma0 pl3 pt3 pl3-m pv3-m pl4-l pv4-l">
+        <a class="link black-80" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+      </h1>
 
-  <nav class="flex flex-auto justify-between items-center w-50-ns pa2">
-    <div class="f5 fw3 pb2 pb0-ns">About</div>
-    <div class="f5 fw3 pb2 pb0-ns">Clients</div>
-    <div class="f5 fw3 pb2 pb0-ns">News</div>
-    <div class="f5 fw3 pb2 pb0-ns">Contact</div>
-  </nav>
+      <nav class="flex flex-auto justify-between items-center w-50-m w-third-l pl3 pv3 pl3-m pv3-m pl4-l pv4-l">
+        <div class="f5 fw3">About</div>
+        <div class="f5 fw3">Clients</div>
+        <div class="f5 fw3">News</div>
+        <div class="f5 fw3">Contact</div>
+      </nav>
+    </div>
+  </div>
 </header>

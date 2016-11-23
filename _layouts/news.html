@@ -4,9 +4,9 @@ layout: default
 <article class="flex flex-column flex-wrap" itemscope itemtype="http://schema.org/BlogPosting">
 
   <div class="flex flex-wrap w-100">
-    {% if page.videoURL or page.imageURL %}
-    {% if page.videoURL %}
-    {% include hero-video.html url=page.videoURL caption=page.videoCaption %}
+    {% if page.videoID or page.imageURL %}
+    {% if page.videoID %}
+    {% include hero-video.html id=page.videoID caption=page.videoCaption %}
     {% else if page.imageURL %}
     <img class="w-100 w-50-l pa2-l" src="{{ page.imageURL }}">
     {% include hero-caption.html caption=page.imageCaption %}
