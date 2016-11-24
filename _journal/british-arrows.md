@@ -1,5 +1,4 @@
 ---
-layout: news
 title: "British Arrows"
 videoID: 185139774
 date: 2016-11-21

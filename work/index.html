@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="wrapper">
+    <div class="grid">
+      <section class="w-100 flex flex-column pt0 pt3-m pt4-l">
+        <p class="cell dn dib-ns f3 f2-m f1-l fw3 black-80 ma0 measure lh-title">
+          Work
+        </p>
+      </section>
+
+      <ul class="list pl0 ma0">
+        {% for item in site.data.work %}
+        <li class="cell pa0-ns mb3 mb0-ns flex flex-wrap">
+          <div class="cell-ns w-100 w-25-ns">
+            <h2 class="f4 f3-l fw3 mt0 mb1 mb3-ns black-80 lh-title">
+              {{ item.title }}
+            </h2>
+            <div class="dn dib-ns">
+              <p class="f6 f5-l fw3 black-80 ma0 lh-copy">Sector</p>
+              <p class="f6 f5-l fw3 black-40 mt0 mb0 mb3-ns lh-copy">Commercial</p>
+
+              <p class="f6 f5-l fw3 black-80 ma0 lh-copy">Client</p>
+              <p class="f6 f5-l fw3 black-40 ma0 mb0 mb3-ns lh-copy">Example client name</p>
+            </div>
+          </div>
+          <div class="cell-ns w-100 w-75-ns">
+            {% include video.html id=item.id %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

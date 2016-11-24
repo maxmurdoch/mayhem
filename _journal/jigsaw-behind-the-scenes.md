@@ -1,5 +1,4 @@
 ---
-layout: news
 title: "Behind the scenes with Jigsaw"
 videoID: "185139774"
 date: 2016-11-21

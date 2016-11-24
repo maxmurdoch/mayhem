@@ -1,20 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
   {% include head.html %}
-
-  <body class="min-vh-100 mw-100 w-100 flex flex-column sans-serif black-80">
-
+  <body class="min-vh-100 mw-100 w-100 flex flex-column tk-nimbus-sans black-80 border-box">
     {% include header.html %}
-
-    <main class="container" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <main class="header-margin">
+      {{ content }}
     </main>
-
     {% include footer.html %}
-
   </body>
-
 </html>

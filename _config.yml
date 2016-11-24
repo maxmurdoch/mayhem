@@ -35,8 +35,22 @@ exclude:
   - Gemfile.lock
 
 collections:
-  news:
+  journal:
     output: true
-    permalink: /news/:path/
+    permalink: /journal/:path/
+
+defaults:
+  - scope:
+      type: journal
     values:
-      layout: news
+      layout: journal
+
+navigation:
+  - title: about
+    url: /about
+  - title: work
+    url: /work
+  - title: journal
+    url: /journal
+  - title: contact
+    url: /contact

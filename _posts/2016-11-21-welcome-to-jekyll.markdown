@@ -1,5 +1,4 @@
 ---
-layout: news
 title: "British Arrows"
 date: 2016-11-21
 categories: fashion commercial

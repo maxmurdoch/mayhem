@@ -1,9 +1,10 @@
 a {
   transition: opacity 200ms ease-in-out;
+  color: rgba(0, 0, 0, .8);
 }
 
 a:visited {
-  color: rgba(0, 0, 0, .8);
+  color: inherit;
 }
 
 a:hover,

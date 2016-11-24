@@ -2,64 +2,74 @@
 layout: default
 ---
 
-<div class="flex flex-column flex-row-ns flex-wrap mw-100 w-100 black-80 b--light-gray pr3 pr4-l">
+<div class="container">
+  <div class="wrapper">
 
-  <section class="w-100 pl3 pv3 pl4-l pv4-l">
-    <p class="f3 f2-ns fw3 black-80 mt0 measure lh-title">
-      Mayhem are an integrated, full‐service video production company founded in 2015 by John Higgins, Tom Day, Dan Atherton & Ian Packard.
-  </section>
-  <section class="pl3 pv3 pl4-l pv4-l w-100 w-50-m w-two-thirds-l order-1-ns">
-    <h2 class="mt0 mb3 f3 fw3">Showcase</h2>
+    <div class="flex flex-column flex-row-ns flex-wrap mw-100 w-100 black-80 b--light-gray grid">
 
-    <ul class="list pa0 ma0">
-      {% for item in site.data.showcase %}
-
-      <li class="pt0 pb3 pb4-l ma0 showcase-list-item">
-        {% include hero-video.html id=item.id %}
-      </li>
-      {% endfor %}
-    </ul>
-  </section>
-
-  <section class="pl3 pv3 pl4-l pv4-l w-100 w-50-m w-third-l order-0-ns">
-    <h2 class="mt0 mb3 f3 fw3">News</h2>
-
-    <ul class="list pa0 ma0">
-      {% for item in site.news %}
-      <li class="pb2 pb3-m pb4-l mb2 mb3-l news-list-item">
-        {% if item.videoID or item.imageURL %}
-        {% if item.videoID %}
-        {% include hero-video.html id=item.videoID %}
-        {% else %}
-        {% endif %}
-        {% endif %}
-        <div class="flex flex-column pt2 pt3-ns">
-          <h2 class="lh-title f4 fw3 black-80 ma0">
-            {% if item.content.size > 200 %}
-            <a class="link" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
-            {% else %}
-            {{ item.title | escape }}
-            {% endif %}
-          </h2>
-
-          <span class="flex items-baseline lh-copy f6 fw3 black-80">{{ item.date | date: "%b %-d, %Y" }}</span>
-        </div>
-
-        {% if item.content.size > 200 %}
-        <div class="flex mt3">
-          <a class="link" href="{{ item.url | relative_url }}">
-          <p class="f6 fw3 ma0 black-80 lh-copy">
-            {{ item.content | slice: 0, 100 | strip_html }} … <i class="f6 pl1 material-icons">call_made</i>
-          </p>
-          </a>
-        </div>
-        {% else %}
-        <p class="mt3 mb0 f6 fw3 black-80 lh-copy">
-          {{ item.content | strip_html }}
+      <section class="w-100 pv3 pv4-ns">
+        <p class="cell f3 f2-ns fw3 black-80 ma0 measure lh-title">
+          Mayhem are an integrated, full‐service video production company founded in 2015 by John Higgins, Tom Day, Dan Atherton & Ian Packard.
         </p>
-        {% endif %}
-      </li>
-      {% endfor %}
-    </ul>
-  </section>
+      </section>
+
+
+      <section class="cell w-100 w-50-m w-two-thirds-l order-1-ns">
+        <h2 class="mt0 mb3 f3 fw3">Showcase</h2>
+
+        <ul class="list pa0 ma0">
+          {% for item in site.data.showcase %}
+
+          <li class="pt0 pb3 pb4-l ma0 showcase-list-item">
+            {% include video.html id=item.id %}
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+
+      <section class="cell w-100 w-50-m w-third-l order-0-ns">
+        <h2 class="mt0 mb3 f3 fw3">Journal</h2>
+
+        <ul class="list pa0 ma0">
+          {% for item in site.journal %}
+          <li class="pb2 pb3-m pb4-l journal-list-item">
+            {% if item.videoID or item.imageURL %}
+            {% if item.videoID %}
+            {% include video.html id=item.videoID %}
+            {% else %}
+            <img class="w-100" src="{{ item.imageURL }}">
+            {% endif %}
+            {% endif %}
+
+            <div class="flex flex-column pt2 pt3-ns">
+              <h2 class="lh-title f4 fw3 black-80 ma0">
+                {% if item.content.size > 200 %}
+                <a class="link" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+                {% else %}
+                {{ item.title | escape }}
+                {% endif %}
+              </h2>
+
+              <span class="flex items-baseline lh-copy f6 fw3 black-80">{{ item.date | date: "%b %-d, %Y" }}</span>
+            </div>
+
+            {% if item.content.size > 200 %}
+            <div class="flex mt3">
+              <a class="link" href="{{ item.url | relative_url }}">
+                <p class="f6 fw3 ma0 black-80 lh-copy">
+                  {{ item.content | slice: 0, 100 | strip_html }} … <i class="f6 pl1 material-icons">call_made</i>
+                </p>
+              </a>
+            </div>
+            {% else %}
+            <p class="mt3 mb0 f6 fw3 black-80 lh-copy">
+              {{ item.content | strip_html }}
+            </p>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+    </div>
+  </div>
 </div>

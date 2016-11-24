@@ -1,9 +1,0 @@
-<!-- parameters: -->
-<!-- title -->
-<!-- author -->
-<!-- date -->
-
-<header class="w-100 w-50-l pa2 pa3-m">
-  <h1 class="f3 f2-ns fw3 mt0 mb2" itemprop="name headline">{{ include.title | escape }}</h1>
-  <p class="f6 fw4"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ include.date | date: "%B %-d, %Y" }}</time>{% if include.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ include.author }}</span></span>{% endif %}</p>
-</header>

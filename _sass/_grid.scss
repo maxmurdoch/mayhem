@@ -1,0 +1,55 @@
+// grid
+
+.grid {
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+}
+
+@media (min-width: 60rem) {
+  .grid {
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+  }
+}
+
+// cell
+
+.cell {
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+
+@media (min-width: 60rem) {
+  .cell {
+    padding-top: 2rem;
+    padding-left: 2rem;
+  }
+}
+
+@media (min-width: 30rem) {
+  .cell-ns {
+    padding-top: 1rem;
+    padding-left: 1rem;
+  }
+}
+
+@media (min-width: 60rem) {
+  .cell-ns {
+    padding-top: 2rem;
+    padding-left: 2rem;
+  }
+}
+
+@media (min-width: 30rem) and (max-width: 60rem) {
+  .cell-m {
+    padding-top: 1rem;
+    padding-left: 1rem;
+  }
+}
+
+@media (min-width: 60rem) {
+  .cell-l {
+    padding-top: 2rem;
+    padding-left: 2rem;
+  }
+}
