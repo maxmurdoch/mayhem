@@ -1,19 +1,19 @@
 <header class="container bg-white fixed top-0 right-0 left-0 z-1" role="banner">
   <div class="wrapper">
     <div class="flex flex-column flex-row-ns items-stretch justify-between-ns mw-100 w-100 grid">
-      <h1 class="flex items-center flex-auto w-50-ns f4 fw3 ma0 cell">
-        <a class="link black-80" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
-      </h1>
-
-      <nav class="flex flex-auto justify-between items-center w-50-m w-third-l cell">
+      <nav class="flex flex-column w-100 w-25-m flex-auto justify-between cell">
         {% for item in site.navigation %}
         {% assign colour = 'black-40' %}
         {% if page.url contains item.url %}
         {% assign colour = 'black-80' %}
         {% endif %}
-        <a class="link f5 fw3 {{ colour }}" href="{{ item.url | relative_url }}">{{ item.title | capitalize }}</a>
+        <a class="link lh-copy f5 fw3 {{ colour }}" href="{{ item.url | relative_url }}">{{ item.title | capitalize }}</a>
         {% endfor %}
       </nav>
+
+      <h1 class="flex flex-auto w-25-ns f4 fw3 ma0 cell">
+        <a class="link black-80" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+      </h1>
     </div>
   </div>
 </header>

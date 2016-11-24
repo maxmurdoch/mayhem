@@ -48,8 +48,8 @@ defaults:
 navigation:
   - title: about
     url: /about
-  - title: work
-    url: /work
+  - title: clients
+    url: /clients
   - title: journal
     url: /journal
   - title: contact
