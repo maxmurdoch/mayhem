@@ -50,7 +50,5 @@ navigation:
     url: /about
   - title: clients
     url: /clients
-  - title: journal
-    url: /journal
   - title: contact
     url: /contact

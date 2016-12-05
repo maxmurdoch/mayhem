@@ -1,55 +1,55 @@
 // grid
 
 .grid {
-  padding-right: 1rem;
-  padding-bottom: 1rem;
+  padding-right: $smallGutter;
+  padding-bottom: $smallGutter;
 }
 
 @media (min-width: 60rem) {
   .grid {
-    padding-right: 2rem;
-    padding-bottom: 2rem;
+    padding-right: $bigGutter;
+    padding-bottom: $bigGutter;
   }
 }
 
 // cell
 
 .cell {
-  padding-top: 1rem;
-  padding-left: 1rem;
+  padding-top: $smallGutter;
+  padding-left: $smallGutter;
 }
 
 @media (min-width: 60rem) {
   .cell {
-    padding-top: 2rem;
-    padding-left: 2rem;
+    padding-top: $bigGutter;
+    padding-left: $bigGutter;
   }
 }
 
 @media (min-width: 30rem) {
   .cell-ns {
-    padding-top: 1rem;
-    padding-left: 1rem;
+    padding-top: $smallGutter;
+    padding-left: $smallGutter;
   }
 }
 
 @media (min-width: 60rem) {
   .cell-ns {
-    padding-top: 2rem;
-    padding-left: 2rem;
+    padding-top: $bigGutter;
+    padding-left: $bigGutter;
   }
 }
 
 @media (min-width: 30rem) and (max-width: 60rem) {
   .cell-m {
-    padding-top: 1rem;
-    padding-left: 1rem;
+    padding-top: $smallGutter;
+    padding-left: $smallGutter;
   }
 }
 
 @media (min-width: 60rem) {
   .cell-l {
-    padding-top: 2rem;
-    padding-left: 2rem;
+    padding-top: $bigGutter;
+    padding-left: $bigGutter;
   }
 }

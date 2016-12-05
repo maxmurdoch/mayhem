@@ -1,3 +1,17 @@
+.showcase-list-item {
+  width: 100%;
+}
+
+@media (min-width: 30rem) {
+  .showcase-list-item {
+    width: 50%;
+  }
+}
+
+.showcase-list-item:nth-of-type(3n+1) {
+  width: 100%;
+}
+
 .showcase-list-item:last-of-type {
   padding-bottom: 0;
 }

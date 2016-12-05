@@ -1,0 +1,14 @@
+.tab-content {
+  position: absolute;
+  left: -9999px;
+  visibility: hidden;
+  opacity: 0;
+  transition: position 0s, visibility 0s, opacity 300ms ease-in-out;
+}
+
+.tab-content.is-visible {
+  position: relative;
+  left: 0;
+  visibility: visible;
+  opacity: 1;
+}

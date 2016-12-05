@@ -1,19 +1,84 @@
-<header class="container bg-white fixed top-0 right-0 left-0 z-1" role="banner">
+<header class="container bg-white" role="banner">
   <div class="wrapper">
-    <div class="flex flex-column flex-row-ns items-stretch justify-between-ns mw-100 w-100 grid">
-      <nav class="flex flex-column w-100 w-25-m flex-auto justify-between cell">
-        {% for item in site.navigation %}
-        {% assign colour = 'black-40' %}
-        {% if page.url contains item.url %}
-        {% assign colour = 'black-80' %}
-        {% endif %}
-        <a class="link lh-copy f5 fw3 {{ colour }}" href="{{ item.url | relative_url }}">{{ item.title | capitalize }}</a>
-        {% endfor %}
-      </nav>
+    <div class="grid">
+      <div class="flex flex-wrap">
+        <div class="flex flex-column flex-row-ns flex-wrap items-stretch mw-100 w-100" data-tab-group>
+          <h1 class="flex w-100 w-25-l f4 f3-ns fw4 exo ttu tracked ma0 cell">
+            <a class="link black-80" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+          </h1>
 
-      <h1 class="flex flex-auto w-25-ns f4 fw3 ma0 cell">
-        <a class="link black-80" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
-      </h1>
+          <nav class="flex flex-row flex-start-ns flex-column-ns w-100 w-25-ns justify-start">
+            {% for item in site.navigation %} {% assign colour = 'black-40' %} {% if page.url contains item.url %} {% assign colour = 'black-80' %} {% endif %} {% if forloop.first == true %}
+            <div class="nav-item cell w-third w-100-ns link pointer lh-copy f5 f5-ns fw4 ttu tracked exo {{ colour }}" data-tab data-tab-for="{{item.title}}">{{ item.title | capitalize }}</div>
+            {% else %}
+            <div class="nav-item cell pt0-ns w-third w-100-ns link pointer lh-copy f5 f5-ns fw4 ttu tracked exo {{ colour }}" data-tab data-tab-for="{{item.title}}">{{ item.title | capitalize }}</div>
+            {% endif %} {% endfor %}
+
+            <div class="cell flex">
+              {% for media in site.data.social-media %}
+              <a href="{{ media.url }}" target="_blank">
+                <i class="fa fa-{{ media.type }} f4 pr3"></i>
+              </a>
+              {% endfor %}
+            </div>
+          </nav>
+
+          <div class="flex flex-column w-100 w-50-ns">
+            <div id="about" data-tab-content class="tab-content">
+              <p class="cell f5 f4-ns fw3 lh-copy ma0 navigation-detail">
+                Mayhem was founded in 2015 by John Higgins, Tom Day, Dan Atherton & Ian Packard to handle everything required to bring an idea from it’s conception and development to featuring on the big or little screen. Since our inception we have created moving picture
+                content that stands out and get’s noticed around the globe.
+              </p>
+            </div>
+
+            <div id="clients" data-tab-content class="tab-content">
+              <ul class="client-list scroll-right flex flex-column flex-wrap list ma0 cell pl0">
+                {% for client in site.data.clients %}
+                <li class="w-third f5 f4-ns fw3 lh-copy ma0 cell pt0">
+                  {{ client.name }}
+                </li>
+                {% endfor %}
+                </p>
+              </ul>
+            </div>
+
+            <div id="contact" data-tab-content class="tab-content">
+              <div class="navigation-detail flex flex-wrap">
+
+                <div class="w-100 w-third-ns f5 f4-ns fw3 flex flex-wrap flex-column flex-start">
+                  <h2 class="ma0 w-third w-100-ns cell f5 lh-copy f4-l fw3 black-80">
+                  Address
+                </h2>
+                  <p class="f5 f4-l w-two-thirds w-100-ns fw3 lh-copy ma0 measure cell">
+                    6 Fredericks Place<br> London
+                    <br> EC2R 8AB<br> 02071 278 783
+                  </p>
+                </div>
+
+                <div class="w-100 w-third-ns f5 f4-ns fw3 flex flex-wrap flex-column justify-start">
+                  <h2 class="f5 f4-l w-third w-100-ns fw3 ma0 cell black-80 lh-copy">
+                  General enquiries
+                </h2>
+                  <a class="f5 f4-l fw3 w-two-thirds w-100-ns lh-copy cell link" href="mailto:info@mediamayhem.tv">
+                  info@mediamayhem.tv
+                  <i class="material-icons f5 fw3">open_in_new</i>
+                </a>
+                </div>
+
+                <div class="w-100 w-third-ns f5 f4-ns fw3 flex flex-wrap flex-column justify-start">
+                  <h2 class="f5 f4-l fw3 w-third w-100-ns ma0 cell lh-copy black-80">
+                  New business
+                </h2>
+                  <a class="f5 f4-l lh-copy fw3 w-two-thirds w-100-ns cell link" href="mailto:ian@mediamayhem.tv">
+                  ian@mediamayhem.tv
+                  <i class="material-icons f5 fw3">open_in_new</i>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </header>

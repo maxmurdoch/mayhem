@@ -7,35 +7,21 @@ layout: default
 
     <div class="flex flex-column flex-row-ns flex-wrap mw-100 w-100 black-80 b--light-gray grid">
 
-      <section class="cell w-100 w-50-m w-two-thirds-l order-1-ns">
-        <h2 class="mt0 mb3 f3 fw3">Showcase</h2>
+      <section class="mt3 mt0-ns w-100 w-25-l order-1 order-0-l">
+        <div class="bt b--light-gray bn-l ml3 mt0 mb0 mr0"></div>
 
-        <ul class="list pa0 ma0">
-          {% for item in site.data.showcase %}
+        <div class="cell">
+          <h2 class="ma0 f5 f4-ns fw4 ttu tracked exo">Journal</h2>
+        </div>
 
-          <li class="pt0 pb3 pb4-l ma0 showcase-list-item">
-            {% include video.html id=item.id %}
-          </li>
-          {% endfor %}
-        </ul>
-      </section>
-
-      <section class="cell w-100 w-50-m w-third-l order-0-ns">
-        <h2 class="mt0 mb3 f3 fw3">Journal</h2>
-
-        <ul class="list pa0 ma0">
+        <ul class="list flex flex-wrap pa0 ma0">
           {% for item in site.journal %}
-          <li class="pb2 pb3-m pb4-l journal-list-item">
-            {% if item.videoID or item.imageURL %}
-            {% if item.videoID %}
-            {% include video.html id=item.videoID %}
-            {% else %}
-            <img class="w-100" src="{{ item.imageURL }}">
-            {% endif %}
-            {% endif %}
+          <li class="cell journal-list-item">
+            {% if item.videoID or item.imageURL %} {% if item.videoID %} {% include video.html id=item.videoID %} {% else %}
+            <img class="w-100" src="{{ item.imageURL }}"> {% endif %} {% endif %}
 
             <div class="flex flex-column pt2 pt3-ns">
-              <h2 class="lh-title f4 fw3 black-80 ma0">
+              <h2 class="lh-title exo ttu tracked f5 f5-ns fw4 black-80 ma0">
                 {% if item.content.size > 200 %}
                 <a class="link" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
                 {% else %}
@@ -43,19 +29,17 @@ layout: default
                 {% endif %}
               </h2>
 
-              <span class="flex items-baseline lh-copy f6 fw3 black-80">{{ item.date | date: "%b %-d, %Y" }}</span>
+              <span class="flex lh-copy f6 fw3 black-80">{{ item.date | date: "%b %-d, %Y" }}</span>
             </div>
 
             {% if item.content.size > 200 %}
             <div class="flex mt3">
-              <a class="link" href="{{ item.url | relative_url }}">
-                <p class="f6 fw3 ma0 black-80 lh-copy">
-                  {{ item.content | slice: 0, 100 | strip_html }} … <i class="f6 pl1 material-icons">call_made</i>
-                </p>
-              </a>
+              <p class="f6 f5-ns fw3 ma0 black-80 lh-copy">
+                {{ item.content | slice: 0, 100 | strip_html }} … <i class="f6 pl1 material-icons">call_made</i>
+              </p>
             </div>
             {% else %}
-            <p class="mt3 mb0 f6 fw3 black-80 lh-copy">
+            <p class="mt3 mb0 f6 f5-ns fw3 black-80 lh-copy">
               {{ item.content | strip_html }}
             </p>
             {% endif %}
@@ -63,6 +47,20 @@ layout: default
           {% endfor %}
         </ul>
       </section>
+
+      <section class="w-100 w-75-l order-0 order-1-l">
+        <h2 class="cell ma0 f5 f4-ns fw4 ttu tracked exo">Showcase</h2>
+
+        <ul class="list flex flex-wrap pa0 ma0">
+          {% for item in site.data.showcase %}
+
+          <li class="cell ma0 showcase-list-item">
+            {% include video.html id=item.id %}
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+
     </div>
   </div>
 </div>
