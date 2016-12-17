@@ -1,8 +1,10 @@
 ---
-title: "Behind the scenes with Jigsaw"
-image: "http://i.dailymail.co.uk/i/pix/2013/07/11/article-2360513-00190AD800000258-371_634x416.jpg"
-date: 2016-11-21
-categories: fashion commercial
+title: Behind the scenes with Jigsaw
+date: 2016-11-21 00:00:00 Z
+categories:
+- fashion
+- commercial
+image: http://i.dailymail.co.uk/i/pix/2013/07/11/article-2360513-00190AD800000258-371_634x416.jpg
 post: true
 ---
 

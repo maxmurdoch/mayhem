@@ -1,8 +1,10 @@
 ---
-title: "AGM in New York"
+title: AGM in New York
+date: 2016-12-09 00:00:00 Z
+categories:
+- fashion
+- commercial
 image: "/images/new-york.jpg"
-date: 2016-12-09
-categories: fashion commercial
 post: true
 ---
 
