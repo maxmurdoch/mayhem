@@ -5,7 +5,7 @@ categories:
 - fashion
 - commercial
 image: http://i.dailymail.co.uk/i/pix/2013/07/11/article-2360513-00190AD800000258-371_634x416.jpg
-post: false
+post: true
 ---
 
-We are thrilled to announce that our Jigsaw menswear commercial has been nominated at the British Arrows!
+We are thrilled to announce that our Jigsaw menswear advert has been nominated at the British Arrows!
