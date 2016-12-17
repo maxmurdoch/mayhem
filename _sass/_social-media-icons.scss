@@ -1,4 +1,12 @@
 .social-media-icon {
-  width: 2rem;
-  height: 2rem;
+  width: 1rem;
+  height: 1rem;
+  opacity: 0.8;
+}
+
+@media (min-width: $sbp) {
+  .social-media-icon {
+    width: 1.125rem;
+    height: 1.125rem;
+  }
 }

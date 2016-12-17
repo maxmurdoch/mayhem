@@ -1,0 +1,27 @@
+.mobile-header {
+  display: block;
+}
+
+@media (min-width: $mbp) {
+  .mobile-header {
+    display: none;
+  }
+}
+
+.desktop-header {
+  display: none;
+}
+
+@media (min-width: $mbp) {
+  .desktop-header {
+    display: block;
+    padding: 2rem 0;
+    height: 16rem;
+  }
+}
+
+@media (min-width: $lbp) {
+  .desktop-header {
+    height: 12rem;
+  }
+}

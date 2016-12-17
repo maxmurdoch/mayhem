@@ -1,0 +1,15 @@
+.logo {
+  max-height: 3rem;
+}
+
+@media (min-width: $mbp) {
+  .logo {
+    max-height: 4rem;
+  }
+}
+
+.logo__writing {
+  font-family: 'Times';
+  font-size: 72;
+  font-weight: bold;
+}

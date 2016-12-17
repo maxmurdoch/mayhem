@@ -1,4 +1,5 @@
 .tab-content {
+  flex-basis: 100%;
   position: absolute;
   left: -9999px;
   visibility: hidden;
@@ -7,8 +8,11 @@
 }
 
 .tab-content.is-visible {
-  position: relative;
-  left: 0;
+  position: inherit;
   visibility: visible;
   opacity: 1;
+}
+
+.tab-content.large {
+  flex-basis: 100%;
 }

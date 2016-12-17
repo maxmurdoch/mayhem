@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="wrapper">
+    <div class="row">
+      <section class="col-xs-12">
+        <div class="box">
+          <h1 class="f5 f4-ns fw4 black-80 ma0 measure lh-title exo ttu tracked">
+            News archive
+          </h1>
+        </div>
+      </section>
+    </div>
+
+    <section class="row flex-wrap">
+      {% for item in site.news %}
+      <article class="col-xs-12 col-md-6 col-lg-4">
+        <div class="box">
+          {% if item.post == true %}
+          {% include news-feed-post.html post=item %}
+          {% else %}
+          {% include news-feed-note.html post=item %}
+          {% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+</div>

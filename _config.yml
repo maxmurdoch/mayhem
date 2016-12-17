@@ -35,15 +35,15 @@ exclude:
   - Gemfile.lock
 
 collections:
-  journal:
+  news:
     output: true
-    permalink: /journal/:path/
+    permalink: /news/:path/
 
 defaults:
   - scope:
-      type: journal
+      type: news
     values:
-      layout: journal
+      layout: news
 
 navigation:
   - title: about

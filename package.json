@@ -1,0 +1,16 @@
+{
+  "name": "mayhem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Murdoch",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^7.6.0",
+    "stylelint-config-standard": "^15.0.0",
+    "tidy-html5": "^0.1.1"
+  }
+}

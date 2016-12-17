@@ -1,6 +1,8 @@
 a {
+  color: rgba(0, 0, 0, .7);
+  opacity: 1;
   transition: opacity 200ms ease-in-out;
-  color: rgba(0, 0, 0, .8);
+  text-decoration: none;
 }
 
 a:visited {
@@ -10,4 +12,8 @@ a:visited {
 a:hover,
 a:focus {
   opacity: .6;
+}
+
+.link--underline {
+  border-bottom: 1px solid;
 }

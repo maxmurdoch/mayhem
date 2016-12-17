@@ -1,0 +1,11 @@
+---
+title: "AGM in New York"
+image: "/images/new-york.jpg"
+date: 2016-12-09
+categories: fashion commercial
+post: true
+---
+
+After a very successful first year - Tom, Dan and Ian treated themselves to a pre- Christmas trip to New York. However, there was an extra motive to this trip as you’ll see in the video above...
+We wanted to find a way to say a huge thanks to everyone who has supported us in the first year and what better way than utilising a helicopter and working with aerial company Hangar95! We have had the chance to work with some amazing people and companies this year and it’s great to be able to share our work with so many people interested in what we have created.
+From all of us at Mayhem wish you a fantastic Christmas and a Happy New Year!

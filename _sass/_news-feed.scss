@@ -1,0 +1,15 @@
+.news-feed-item .news-feed-line {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.10);
+}
+
+.news-feed-content p:first-of-type {
+  margin-top: 0;
+}
+
+.news-feed-list-item:last-of-type {
+  border: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}

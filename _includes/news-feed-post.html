@@ -1,0 +1,27 @@
+<!--
+parameters:
+post {
+title,
+image,
+date,
+categories
+}
+-->
+
+<a class="db" href="{{ include.post.url | relative_url }}">
+  <img class="w-100" src="{{ include.post.image }}" />
+
+  <div class="flex flex-column pt2 pt3-ns">
+    <h2 class="lh-title f6 f5-ns fw4 black-80 ma0 exo ttu tracked">
+      {{ include.post.title | escape }}
+    </h2>
+
+    <span class="flex lh-copy f6 fw3 black-40 exo ttu tracked">{{ include.post.date | date: "%b %-d, %Y" }}</span>
+  </div>
+
+  <div class="flex mt3">
+    <p class="f6 f5-ns fw3 ma0 black-80 lh-copy">
+      {{ include.post.content | slice: 0, 100 | strip_html }} … <i class="f6 pl1 material-icons">call_made</i>
+    </p>
+  </div>
+</a>
