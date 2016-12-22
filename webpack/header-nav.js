@@ -1,22 +1,20 @@
-// helpers
-
-var tabGroups = document.querySelectorAll('[data-tab-group]');
+const tabGroups = document.querySelectorAll('[data-tab-group]');
 tabGroups.forEach(function(tabGroup) {
-  var tabs = tabGroup.querySelectorAll('[data-tab-group] [data-tab-for]');
+  const tabs = tabGroup.querySelectorAll('[data-tab-group] [data-tab-for]');
 
-  var deactivate = function(element) {
+  const deactivate = function(element) {
     element.classList.add('o-60');
     element.classList.remove('o-100');
 
-    var tabFor = tabGroup.querySelector('[data-tab-content="' + element.dataset.tabFor + '"]');
+    const tabFor = tabGroup.querySelector('[data-tab-content="' + element.dataset.tabFor + '"]');
     tabFor.classList.remove('is-visible');
   };
 
-  var activate = function(element) {
+  const activate = function(element) {
     element.classList.remove('o-60');
     element.classList.add('o-100');
 
-    var tabFor = tabGroup.querySelector('[data-tab-content="' + element.dataset.tabFor + '"]');
+    const tabFor = tabGroup.querySelector('[data-tab-content="' + element.dataset.tabFor + '"]');
     tabFor.classList.add('is-visible');
   };
 

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+  {% include head.html %}
+
+  <body class="min-vh-100 mw-100 w-100 flex flex-column tk-nimbus-sans black-80 border-box">
+    {% include slideout.html %}
+    <div id="panel" class="panel pb3 bg-white">
+      {% include desktop-header.html %}
+      {% include mobile-header.html %}
+
+      <main class="pt2 pt4-l">
+        {{ content }}
+      </main>
+    </div>
+
+    <script type="text/javascript" src="/assets/scripts/bundle.js"></script>
+  </body>
+
+</html>
