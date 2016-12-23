@@ -1,7 +1,4 @@
 ---
-destination: public
-source: src
-exclude: ['node_modules']
 title: Mayhem
 timezone: UTC
 collections:
@@ -21,6 +18,11 @@ defaults:
     type: news
   values:
     layout: news
+destination: public
+source: src
+exclude:
+- Gemfile
+- Gemfile.lock
 email: your-email@domain.com
 description: 'Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
@@ -32,12 +34,9 @@ url: ''
 twitter_username: mediamayhemTV
 markdown: kramdown
 theme: minima
-sass:
+sass: 
 gems:
 - jekyll-feed
-exclude:
-- Gemfile
-- Gemfile.lock
 navigation:
 - title: about
   url: "/about"
