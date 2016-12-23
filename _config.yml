@@ -18,12 +18,10 @@ defaults:
     type: news
   values:
     layout: news
-destination: public
-source: src
 exclude:
 - Gemfile
 - Gemfile.lock
-email: your-email@domain.com
+email: hello@mediamayhemtv
 description: We create award-winning content that delivers. Commercials, online, broadcast
   and fiction - all under one roof. Our stories are moving, entertaining and powerful.
   Welcome to Mayhem.
@@ -32,7 +30,7 @@ url: ''
 twitter_username: mediamayhemTV
 markdown: kramdown
 theme: minima
-sass: 
+sass:
 gems:
 - jekyll-feed
 navigation:
