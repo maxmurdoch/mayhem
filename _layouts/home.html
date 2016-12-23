@@ -15,13 +15,13 @@ layout: default
           </div>
 
           <section class="list news-feed row flex flex-wrap mv0 pl0">
-            {% for item in site.news %}
+            {% for item in site.posts %}
             <article class="col-xs-12 col-md-6 col-lg-12 news-feed-item">
               <div class="news-feed-line">
-                {% if item.post == true %}
-                {% include news-feed-post.html post=item %}
+                {% if item.long == true %}
+                {% include news-feed-long.html post=item %}
                 {% else %}
-                {% include news-feed-note.html post=item %}
+                {% include news-feed-short.html post=item %}
                 {% endif %}
               </div>
             </article>
@@ -44,7 +44,7 @@ layout: default
             <div class="col-xs-12">
               <ul class="list row flex flex-wrap pl0 mv0">
                 {% assign sortedShowcase = site.showcase | sort: 'order' %}
-                {% for item in sortedShowcase | sort: 'order' %}
+                {% for item in sortedShowcase %}
 
                 <li class="box ma0 showcase-list-item">
                   {% include video.html video=item %}
