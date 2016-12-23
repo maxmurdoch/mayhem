@@ -1,5 +1,6 @@
 ---
 title: Moving office!
+date: 2016-11-24 00:00:00 Z
 categories:
 - business
 image: http://i.dailymail.co.uk/i/pix/2013/07/11/article-2360513-00190AD800000258-371_634x416.jpg
