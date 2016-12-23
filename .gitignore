@@ -3,4 +3,3 @@ _site
 .jekyll-metadata
 .bundle
 node_modules
-public

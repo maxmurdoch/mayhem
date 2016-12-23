@@ -24,17 +24,13 @@ exclude:
 - Gemfile
 - Gemfile.lock
 email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
+description: 'We create award-winning content that delivers. Commercials, online, broadcast and fiction - all under one roof. Our stories are moving, entertaining and powerful. Welcome to Mayhem.'
 baseurl: ''
 url: ''
 twitter_username: mediamayhemTV
 markdown: kramdown
 theme: minima
-sass: 
+sass:
 gems:
 - jekyll-feed
 navigation:
