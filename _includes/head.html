@@ -6,13 +6,12 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else if %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "assets/font-awesome/css/font-awesome.min.css" | relative_url }}">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-        rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css">
 
   <script src="https://use.typekit.net/dtv8vmt.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
