@@ -1,12 +1,12 @@
 .showcase-list-item {
   width: 100%;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: $mbp) {
   .showcase-list-item {
     width: 50%;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
   }
 }
 

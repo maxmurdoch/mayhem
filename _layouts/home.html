@@ -8,10 +8,8 @@ layout: default
 
       <div class="row">
         <div class="col-xs-12 col-lg-3 order-1 order-0-l">
-          <div class="bt b--light-gray bn-l mt0 pb3 pa0-l mt0-l mb0 mr0"></div>
-
           <div class="box">
-            <h2 class="ma0 f5 f4-ns fw4 black-80 exo ttu tracked">News feed</h2>
+            <h2 class="ma0 f5 f4-ns fw4 pt4 pt0-l black-80 exo ttu tracked">News feed</h2>
           </div>
 
           <section class="list news-feed row flex flex-wrap mv0 pl0">
@@ -27,7 +25,7 @@ layout: default
             </article>
             {% endfor %}
             <div class="col-xs-12">
-              <a class="bb b--black pb1 box f5 f4-ns fw4 black-80 exo ttu tracked-mega" href="/news">Archive</a>
+              <a class="pb1 box f5 f4-ns fw4 black-80 exo ttu tracked-mega link" href="/news">Archive</a>
             </div>
           </section>
         </div>
@@ -37,20 +35,22 @@ layout: default
 
             <div class="col-xs-12">
               <div class="box">
-                <h2 class="ma0 f5 f4-ns fw4 black-80 exo ttu tracked">Showcase</h2>
+                <h2 class="ma0 f5 f4-ns pt3 pt0-l fw4 black-80 exo ttu tracked">Showcase</h2>
               </div>
             </div>
 
             <div class="col-xs-12">
-              <ul class="list row flex flex-wrap pl0 mv0">
-                {% assign sortedShowcase = site.showcase | sort: 'order' %}
-                {% for item in sortedShowcase %}
+              <div class="row">
+                <ul class="list flex flex-wrap pl0 mv0">
+                  {% assign sortedShowcase = site.showcase | sort: 'order' %}
+                  {% for item in sortedShowcase %}
 
-                <li class="box ma0 showcase-list-item">
-                  {% include video.html video=item %}
-                </li>
-                {% endfor %}
-              </ul>
+                  <li class="box ma0 showcase-list-item">
+                    {% include video.html video=item %}
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
             </div>
           </div>
         </section>
