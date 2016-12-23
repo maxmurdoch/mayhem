@@ -1,15 +1,30 @@
 <!-- parameters: -->
 <!-- id -->
+<!-- title -->
+<!-- cover -->
 <!-- caption -->
 
 <div class="videoOuterContainer w-100 mw-100">
   <div class="videoInnerContainer">
-    <iframe src="{{ 'https://player.vimeo.com/video/' | append: include.id }}" class="video" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <div data-vimeoid="{{ include.id }}">
+      <img class="z-0 videoCover" src="{{ '/images/' | append: include.cover }}" />
+      <div class="z-5 videoCenter">
+        {% if include.dark == true %}
+        <h2 class="videoTitle videoTitle--dark">{{ include.title }}</h2>
+        <svg class="playLogoSvg playLogoSvg--dark" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M8 5v14l11-7z"/>
+          <path d="M0 0h24v24H0z" fill="none"/>
+        </svg>
+        {% else %}
+        <h2 class="videoTitle">{{ include.title }}</h2>
+        <svg class="playLogoSvg" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M8 5v14l11-7z"/>
+          <path d="M0 0h24v24H0z" fill="none"/>
+        </svg>
+        {% endif %}
+      </div>
+    </div>
   </div>
 
   {% include hero-caption.html caption=include.caption %}
 </div>
-
-<script type="text/javascript">
-
-</script>

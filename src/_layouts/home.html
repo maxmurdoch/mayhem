@@ -46,7 +46,7 @@ layout: default
                 {% for item in site.data.showcase %}
 
                 <li class="box ma0 showcase-list-item">
-                  {% include video.html id=item.id %}
+                  {% include video.html title=item.title id=item.id cover=item.cover dark=item.dark %}
                 </li>
                 {% endfor %}
               </ul>

@@ -1,27 +1,18 @@
-.ReactTabs {
-  display: flex;
-  flex-wrap: wrap;
-  flex: auto;
+.tab-content {
+  flex-basis: 100%;
+  position: absolute;
+  left: -9999px;
+  visibility: hidden;
+  opacity: 0;
+  transition: position 0s, visibility 0s, opacity 300ms ease-in-out;
 }
 
-.ReactTabs__TabList {
-  flex-basis: 25%;
-  list-style: none;
-  margin: 0;
-  padding: 0;
+.tab-content.is-visible {
+  position: inherit;
+  visibility: visible;
+  opacity: 1;
 }
 
-.ReactTabs__Tab {
-  font-family: "Exo";
-  color: rgba(0, 0, 0, 0.4);
-}
-
-.ReactTabs__Tab--selected {
-  color: rgba(0, 0, 0, 0.8);
-}
-
-.ReactTabs__TabPanel {
-  flex-basis: 75%;
-  font-family: "nimbus-sans";
-  font-weight: 300;
+.tab-content.large {
+  flex-basis: 100%;
 }

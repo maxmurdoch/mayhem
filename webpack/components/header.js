@@ -22,7 +22,6 @@ import data from '../data/header-data.json';
 
 const Header = () => {
   Tabs.setUseDefaultStyles(false);
-  console.log('map', R.map((client) => li(R.prop('name', client)), R.prop('clients', data)));
 
   return h(Tabs, {
     selectedIndex: 0

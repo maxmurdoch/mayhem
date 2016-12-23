@@ -12,7 +12,9 @@
   overflow: hidden;
 }
 
-.video, .videoContainer object, .videoContainer embed {
+.video,
+.videoContainer object,
+.videoContainer embed {
   position: absolute;
   top: 0;
   left: 0;
@@ -22,4 +24,94 @@
 
 .player .video-wrapper {
   background: white !important;
+}
+
+.videoCover {
+  display: flex;
+  justify-content: center;
+  transition: all 300ms ease-in-out;
+  align-items: center;
+}
+
+.videoTitle {
+  color: white;
+  text-align: center;
+  font-family: 'Exo';
+  margin-top: 0;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.4;
+  text-transform: uppercase;
+  transition: all 300ms ease-in-out;
+  letter-spacing: 0.1rem;
+  z-index: 10;
+}
+
+@media (min-width: $sbp) {
+  .videoTitle {
+    font-size: 1.25rem;
+  }
+}
+
+.videoTitle--dark {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.videoInnerContainer:hover {
+  cursor: pointer;
+}
+
+.videoInnerContainer:hover .videoCover {
+  // transform: scale(1.04);
+}
+
+.videoInnerContainer:hover .videoTitle,
+.videoInnerContainer:hover .playLogoSvg {
+  transform: translateY(-10px) scale(1.04);
+}
+
+.videoCenter {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+
+@media (min-width: $sbp) {
+  .showcase-list-item:nth-of-type(3n+1) .videoTitle {
+    font-size: 2rem;
+  }
+}
+
+.playLogoSvg {
+  transition: all 300ms ease-in-out;
+  width: 32px;
+  height: 32px;
+}
+
+@media (min-width: $mbp) {
+  .playLogoSvg {
+    width: 48px;
+    height: 48px;
+  }
+}
+
+@media (min-width: $mbp) {
+  .showcase-list-item:nth-of-type(3n+1) .playLogoSvg {
+    width: 72px;
+    height: 72px;
+  }
+}
+
+.playLogoSvg {
+  fill: white;
+}
+
+.playLogoSvg--dark {
+  fill: #000;
 }

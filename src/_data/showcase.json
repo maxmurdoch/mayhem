@@ -1,38 +1,48 @@
 [
     {
         id: 109787937,
-        title: "Nothing in your way"
+        title: "Nothing in your way",
+        cover: "nothing-in-your-way.jpg"
     },
     {
         id: 189347643,
-        title: "Now that’s a delivery"
+        title: "Now that’s a delivery",
+        cover: "what-a-delivery.jpg"
     },
     {
         id: 185139774,
-        title: "Teach a man to fish"
+        title: "Teach a man to fish",
+        cover: "teach-a-man-to-fish.jpg"
     },
     {
         id: 164559477,
-        title: "Winsor and Newton"
+        title: "Winsor and Newton",
+        cover: "winsor-newton.jpg",
+        dark: true
     },
     {
         id: 164488880,
-        title: "UYRUFC"
+        title: "UYRUFC",
+        cover: "york.jpg"
     },
     {
         id: 143873192,
-        title: "Olympus"
+        title: "Olympus",
+        cover: "olympus.jpg"
     },
     {
         id: 164576823,
-        title: "Per Mertesaker"
+        title: "Per Mertesacker",
+        cover: "nba.jpg"
     },
     {
         id: 181775008,
-        title: "Tinie Tempah"
+        title: "Tinie Tempah",
+        cover: "tinie-tempah.jpg"
     },
     {
         id: 157905379,
-        title: "Team first Varsity"
+        title: "Team first Varsity",
+        cover: "team-first-varsity.jpg"
     }
 ]

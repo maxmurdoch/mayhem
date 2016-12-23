@@ -1,5 +1,7 @@
-import { h, div } from 'react-hyperscript-helpers';
-import { render } from 'react-dom';
-import Header from './components/header';
+import setupTabs from './header-nav';
+import setupVideos from './video';
+import setupSlideout from './slideout';
 
-const App = () => div([h(Header)]);
+setupSlideout();
+setupTabs();
+setupVideos();
