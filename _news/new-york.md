@@ -4,7 +4,7 @@ date: 2016-12-09 00:00:00 Z
 categories:
 - fashion
 - commercial
-image: "/images/new-york.jpg"
+image: "/uploads/new-york.jpg"
 post: true
 ---
 

@@ -2,6 +2,6 @@
 title: Team first varsity
 order: 9
 vimeoid: 157905379
-cover: team-first-varsity.jpg
+title: "Team first varsity"
+image: "team-first-varsity.jpg"
 ---
-

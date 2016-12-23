@@ -46,7 +46,6 @@ layout: default
                 {% assign sortedShowcase = site.showcase | sort: 'order' %}
                 {% for item in sortedShowcase | sort: 'order' %}
 
-
                 <li class="box ma0 showcase-list-item">
                   {% include video.html video=item %}
                 </li>
