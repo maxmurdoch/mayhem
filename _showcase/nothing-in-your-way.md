@@ -4,6 +4,6 @@ categories:
 - commercial
 order: 1
 vimeoid: 109787937
-title: "Nothing in your way"
-image: "nothing-in-your-way.jpg"
+image: nothing-in-your-way.jpg
 ---
+
