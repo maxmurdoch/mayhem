@@ -6,6 +6,9 @@ collections:
     title: News
     output: true
     permalink: "/news/:path/"
+  showcase:
+    title: Showcase
+    output: false
   posts:
     title: Posts
     output: true
@@ -30,7 +33,7 @@ url: ''
 twitter_username: mediamayhemTV
 markdown: kramdown
 theme: minima
-sass: 
+sass:
 gems:
 - jekyll-feed
 navigation:

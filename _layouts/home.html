@@ -43,10 +43,12 @@ layout: default
 
             <div class="col-xs-12">
               <ul class="list row flex flex-wrap pl0 mv0">
-                {% for item in site.data.showcase %}
+                {% assign sortedShowcase = site.showcase | sort: 'order' %}
+                {% for item in sortedShowcase | sort: 'order' %}
+
 
                 <li class="box ma0 showcase-list-item">
-                  {% include video.html title=item.title id=item.id cover=item.cover dark=item.dark %}
+                  {% include video.html video=item %}
                 </li>
                 {% endfor %}
               </ul>

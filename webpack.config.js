@@ -1,7 +1,7 @@
 module.exports = {
   entry: "./webpack/entry.js",
   output: {
-    path: "src/assets/scripts/",
+    path: "assets/scripts/",
     filename: "bundle.js"
   },
   devtool: "source-map",
