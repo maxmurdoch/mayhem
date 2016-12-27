@@ -4,7 +4,7 @@
 <div class="videoOuterContainer w-100 mw-100">
   <div class="videoInnerContainer">
     <div data-vimeoid="{{ include.video.vimeoid }}">
-      <img class="z-0 videoCover" src="{{ '/uploads/' | append: include.video.image }}" />
+      <img class="z-0 videoCover" src="{{ include.video.image }}" />
       <div class="z-5 videoCenter">
         {% if include.video.dark == true %}
         <h2 class="videoTitle videoTitle--dark">{{ include.video.title }}</h2>
