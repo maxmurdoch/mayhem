@@ -24,7 +24,7 @@ defaults:
     type: posts
   values:
     layout: news
-    author: John
+    author: ''
     image: ''
     long: true
 exclude:
