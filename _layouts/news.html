@@ -8,19 +8,19 @@ layout: default
     <div class="wrapper">
 
       <div class="row">
-        <header class="col-xs-12">
+        <header class="col-xs-12 box">
           {% if page.videoID %}
           {% include video.html id=page.videoID caption=page.videoCaption %}
           {% else if page.header-image %}
           <div class="row items-end">
             <div class="col-xs-12">
-              <img class="box mw-100 w-100" src="{{ page.header-image }}">
+              <img class="mw-100 w-100" src="{{ page.header-image }}">
             </div>
           </div>
           {% endif %}
 
-          {% if page.heroCaption %}
-          {% include hero-caption.html caption=page.imageCaption %}
+          {% if page.header-caption %}
+          {% include hero-caption.html caption=page.header-caption %}
           {% endif %}
         </header>
 
