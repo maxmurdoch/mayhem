@@ -4,7 +4,7 @@ categories:
 - commercial
 order: 2
 vimeoid: 109787937
-image: nothing-in-your-way.jpg
+image: "/uploads/NIYW_01.jpg"
 subheading: sports motivational film
 ---
 
