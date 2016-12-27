@@ -8,4 +8,4 @@ image: "/uploads/British%20Arrows%20news%20article.JPG"
 long: false
 ---
 
-We are thrilled to announce that our Jigsaw menswear advert has been nominated at the British Arrows!
+We are thrilled to announce that our Jigsaw menswear advert has won a British Arrow!
