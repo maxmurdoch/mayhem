@@ -7,17 +7,19 @@
       <img class="z-0 videoCover" src="{{ include.video.image }}" />
       <div class="z-5 videoCenter">
         {% if include.video.dark == true %}
-        <h2 class="videoTitle videoTitle--dark">{{ include.video.title }}</h2>
         <svg class="playLogoSvg playLogoSvg--dark" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path d="M8 5v14l11-7z"/>
           <path d="M0 0h24v24H0z" fill="none"/>
         </svg>
+        <h2 class="videoTitle videoTitle--dark">{{ include.video.title }}</h2>
+        <p class="videoSubtitle videoSubtitle--dark">{{ include.video.subtitle }}</p>
         {% else %}
-        <h2 class="videoTitle">{{ include.video.title }}</h2>
         <svg class="playLogoSvg" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path d="M8 5v14l11-7z"/>
           <path d="M0 0h24v24H0z" fill="none"/>
         </svg>
+        <h2 class="videoTitle">{{ include.video.title }}</h2>
+        <p class="videoSubtitle">{{ include.video.subtitle }}</p>
         {% endif %}
       </div>
     </div>
