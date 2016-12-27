@@ -1,6 +1,6 @@
 ---
 title: Behind the scenes with Jigsaw
-date: 2016-10-21 00:00:00 Z
+date: 2016-09-05 00:00:00 Z
 categories:
 - fashion
 - commercial
