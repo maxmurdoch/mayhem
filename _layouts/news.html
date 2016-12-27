@@ -11,10 +11,10 @@ layout: default
         <header class="col-xs-12">
           {% if page.videoID %}
           {% include video.html id=page.videoID caption=page.videoCaption %}
-          {% else if page.image %}
+          {% else if page.header-image %}
           <div class="row items-end">
             <div class="col-xs-12">
-              <img class="box mw-100 w-100" src="{{ page.image }}">
+              <img class="box mw-100 w-100" src="{{ page.header-image }}">
             </div>
           </div>
           {% endif %}
