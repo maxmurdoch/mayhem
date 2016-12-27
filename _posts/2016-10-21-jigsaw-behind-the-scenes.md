@@ -4,7 +4,7 @@ date: 2016-10-21 00:00:00 Z
 categories:
 - fashion
 - commercial
-image: "/uploads/Jigsaw%20behind%20the%20scenes.jpg"
+image: "/uploads/Jigsaw%20behind%20the%20scenes%202.jpg"
 long: true
 ---
 
