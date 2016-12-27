@@ -4,7 +4,8 @@ date: 2016-09-05 00:00:00 Z
 categories:
 - fashion
 - commercial
-image: "/uploads/Jigsaw%20behind%20the%20scenes%203.jpg"
+thumbnail-image: "/uploads/Jigsaw%20behind%20the%20scenes%203%20smaller.jpg"
+header-image: "/uploads/Jigsaw%20behind%20the%20scenes%203.jpg"
 long: true
 ---
 

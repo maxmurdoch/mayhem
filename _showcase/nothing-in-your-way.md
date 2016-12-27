@@ -5,6 +5,6 @@ categories:
 order: 2
 vimeoid: 109787937
 image: "/uploads/NIYW_01.jpg"
-subheading: sports motivational film
+subtitle: sports motivational film
 ---
 

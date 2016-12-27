@@ -19,13 +19,15 @@ defaults:
     order: ''
     vimeoid: ''
     image: ''
+    subtitle: ''
 - scope:
     path: ''
     type: posts
   values:
     layout: news
     author: ''
-    image: ''
+    thumbnail-image: ''
+    header-image: ''
     long: true
 exclude:
 - Gemfile

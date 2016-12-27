@@ -8,7 +8,7 @@
     <h1 class="f3 f2-m f1-l fw3 mt0 mb2 lh-title exo ttu tracked" itemprop="name headline">{{ include.title | escape }}</h1>
   </div>
   <div class="col-xs-12">
-    <p class="f6 f5-xs fw3 ma0 black-80"><time class="ma0" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ include.date | date: "%B %-d, %Y" }}</time>{% if include.author != '' %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ include.author }}</span></span>{% endif %}</p>
+    <p class="f6 f5-ns exo ttu tracked fw3 ma0 black-80"><time class="ma0" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ include.date | date: "%B %-d, %Y" }}</time>{% if include.author != '' %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ include.author }}</span></span>{% endif %}</p>
   </div>
   <div class="col-xs-1">
     <hr class="bt-0 br-0 bl-0 bb-0-l br0 bb b--black-80 pb3" />

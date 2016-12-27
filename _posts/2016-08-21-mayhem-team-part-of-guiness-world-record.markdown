@@ -1,7 +1,8 @@
 ---
 title: Mayhem team part of Guiness World Record
 date: 2016-08-21 14:29:00 Z
-image: "/uploads/World%20Record.jpg"
+thumbnail-image: "/uploads/World%20Record%20smaller.jpg"
+header-image: "/uploads/World%20Record.jpg"
 ---
 
 The Mayhem team were on hand to film as the world record for the largest rugby scrum was broken

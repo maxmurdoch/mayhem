@@ -2,14 +2,19 @@
 parameters:
 post {
 title,
-image,
+thumbnail-image,
+header-image,
 date,
 categories
 }
 -->
 
 <a class="db" href="{{ include.post.url | relative_url }}">
-  <img class="w-100" src="{{ include.post.image }}" />
+  {% if include.post.thumbnail-image != '' %}
+  <img class="w-100" src="{{ include.post.thumbnail-image }}" />
+  {% else %}
+  <img class="w-100" src="{{ include.post.header-image }}" />
+  {% endif %}
 
   <div class="flex flex-column pt2 pt3-ns">
     <h2 class="lh-title f6 f5-ns fw4 black-80 ma0 exo ttu tracked">

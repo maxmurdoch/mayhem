@@ -5,6 +5,6 @@ categories:
 order: 6
 vimeoid: 164488880
 image: "/uploads/TGS_02.jpg"
-subheading: york rugby
+subtitle: york rugby
 ---
 

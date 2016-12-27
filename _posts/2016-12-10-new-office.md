@@ -3,7 +3,8 @@ title: New year - new mayhem
 date: 2016-12-10 00:00:00 Z
 categories:
 - business
-image: "/uploads/New%20office%20iamge%202.jpg"
+thumbnail-image: "/uploads/New%20office%20iamge%202%20smaller.jpg"
+header-image: "/uploads/New%20office%20iamge%202.jpg"
 long: true
 ---
 

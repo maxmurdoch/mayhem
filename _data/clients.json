@@ -1,116 +1,116 @@
 [
     {
-        name: "Barbican"
+        "name": "Barbican"
     },
     {
-        name: "BBC"
+        "name": "BBC"
     },
     {
-        name: "Beko"
+        "name": "Beko"
     },
     {
-        name: "Bristol Sport"
+        "name": "Bristol Sport"
     },
     {
-        name: "Clinique"
+        "name": "Clinique"
     },
     {
-        name: "Condé Nast"
+        "name": "Condé Nast"
     },
     {
-        name: "Deliveroo"
+        "name": "Deliveroo"
     },
     {
-        name: "Dave"
+        "name": "Dave"
     },
     {
-        name: "EMG"
+        "name": "EMG"
     },
     {
-        name: "Glastonbury"
+        "name": "Glastonbury"
     },
     {
-        name: "ITV Studios"
+        "name": "ITV Studios"
     },
     {
-        name: "Jigsaw"
+        "name": "Jigsaw"
     },
     {
-        name: "Merceica"
+        "name": "Merceica"
     },
     {
-        name: "Mini Cooper"
+        "name": "Mini Cooper"
     },
     {
-        name: "NBA"
+        "name": "NBA"
     },
     {
-        name: "Odeon"
+        "name": "Odeon"
     },
     {
-        name: "Olympics London 2012"
+        "name": "Olympics London 2012"
     },
     {
-        name: "Olympus"
+        "name": "Olympus"
     },
     {
-        name: "Salzburg Festival"
+        "name": "Salzburg Festival"
     },
     {
-        name: "Schauspiel Haus"
+        "name": "Schauspiel Haus"
     },
     {
-        name: "Schauspiel Köln"
+        "name": "Schauspiel Köln"
     },
     {
-        name: "Shunt"
+        "name": "Shunt"
     },
     {
-        name: "Strawberries & Creem"
+        "name": "Strawberries & Creem"
     },
     {
-        name: "The Gentleman’s Journal"
+        "name": "The Gentleman’s Journal"
     },
     {
-        name: "The Hippodrome Casino"
+        "name": "The Hippodrome Casino"
     },
     {
-        name: "Time Out London"
+        "name": "Time Out London"
     },
     {
-        name: "Time Out NYC"
+        "name": "Time Out NYC"
     },
     {
-        name: "Tracie Giles"
+        "name": "Tracie Giles"
     },
     {
-        name: "UKCA"
+        "name": "UKCA"
     },
     {
-        name: "University of Cambridge"
+        "name": "University of Cambridge"
     },
     {
-        name: "V&A"
+        "name": "V&A"
     },
     {
-        name: "V2"
+        "name": "V2"
     },
     {
-        name: "VSL"
+        "name": "VSL"
     },
     {
-        name: "WeRaise"
+        "name": "WeRaise"
     },
     {
-        name: "Winsor & Newton"
+        "name": "Winsor & Newton"
     },
     {
-        name: "Wiretapper"
+        "name": "Wiretapper"
     },
     {
-        name: "York Sport Union"
+        "name": "York Sport Union"
     },
     {
-        name: "Young Ones Clothing"
+        "name": "Young Ones Clothing"
     }
 ]
