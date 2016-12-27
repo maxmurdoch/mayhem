@@ -1,6 +1,7 @@
 ---
 title: Filming with Rugby player Luke Wallace
 date: 2016-09-26 15:06:00 Z
+thumbnail-image: "/uploads/luke%20wallace%20smaller.jpg"
 header-image: "/uploads/luke%20wallace.jpg"
 ---
 
