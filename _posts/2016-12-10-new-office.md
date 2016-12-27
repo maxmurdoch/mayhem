@@ -8,6 +8,7 @@ long: true
 ---
 
 **Mayhem’s office upping sticks to St. Pauls in London**
+
 We are excited to announce that the Mayhem office is relocating, after outgrowing our office in Bank. We have moved down the road towards St Pauls where we have taken a top floor of 35/37 Ludgate Hill. We look forward to having visitors so please do drop in and say hi. We've even got a roof garden with views of famous London landmarks!
 
 **2017 Mayhem website launch**
