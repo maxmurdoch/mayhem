@@ -1,5 +1,5 @@
 ---
-title: UYRUFC
+title: The gold standard
 categories:
 - sport
 order: 5
