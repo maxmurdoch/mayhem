@@ -4,6 +4,6 @@ categories:
 - sport
 order: 5
 vimeoid: 164488880
-image: york.jpg
+image: "/uploads/york.jpg"
 ---
 
