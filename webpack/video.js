@@ -5,15 +5,12 @@ const getVideoForId = (id) => `https://player.vimeo.com/video/${id}?autoplay=tru
 
 const setupVideos = () => {
   const videos = document.querySelectorAll('[data-vimeoid]');
-  console.log(videos);
 
   R.forEach(
     (video) => {
       return video.addEventListener('click', (event) => {
         const videoWrapper = $(event.target).closest('[data-vimeoid]');
-        console.log(videoWrapper);
         const source = getVideoForId(videoWrapper.data('vimeoid'));
-        console.log(source);
 
         videoWrapper.html(`<iframe src="${source}" class="video" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>`);
       });

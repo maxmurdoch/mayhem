@@ -157,14 +157,11 @@
 	
 	var setupVideos = function setupVideos() {
 	  var videos = document.querySelectorAll('[data-vimeoid]');
-	  console.log(videos);
 	
 	  _ramda2.default.forEach(function (video) {
 	    return video.addEventListener('click', function (event) {
 	      var videoWrapper = (0, _jquery2.default)(event.target).closest('[data-vimeoid]');
-	      console.log(videoWrapper);
 	      var source = getVideoForId(videoWrapper.data('vimeoid'));
-	      console.log(source);
 	
 	      videoWrapper.html('<iframe src="' + source + '" class="video" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>');
 	    });

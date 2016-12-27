@@ -14,15 +14,15 @@
           <div class="desktop-header-tabs flex flex-auto flex-column justify-between">
             <nav>
               {% for item in site.navigation %}
-              <p class="nav-item black-80 ma0 w-third w-100-ns link pointer lh-title f5 fw4 exo ttu tracked" data-tab-for="{{item.title}}">{{ item.title | capitalize }}</p>
+                <p class="nav-item black-80 ma0 w-third w-100-ns link pointer lh-title f5 fw4 exo ttu tracked" data-tab-for="{{item.title}}">{{ item.title | capitalize }}</p>
               {% endfor %}
             </nav>
 
             <div class="flex">
-              {% for media in site.data.social-media %}
-              <a class="link mr3 pt4" href="{{ media.url }}" target="_blank">
-                <img class="social-media-icon" src="/uploads/logo-{{ media.type }}.svg" alt="{{ media.type }} icon"/>
-              </a>
+              {% for media in site.data.social - media %}
+                <a class="link mr3 pt4" href="{{ media.url }}" target="_blank">
+                  <img class="social-media-icon" src="/uploads/logo-{{ media.type }}.svg" alt="{{ media.type }} icon"/>
+                </a>
               {% endfor %}
             </div>
           </div>
@@ -31,17 +31,15 @@
         <div class="col-xs-12 col-md-8 col-lg-8 flex-auto">
           <div class="row">
             <div id="about" data-tab-content="about" class="col-xs tab-content">
-              <p class="box f5 f4-l fw3 lh-copy ma0 navigation-detail measure">We create award-winning content that delivers. Commercials, online, broadcast and fiction - all under one roof.
-
-                Our stories are moving, entertaining and powerful. Welcome to Mayhem.</p>
+              <p class="box f5 f4-l fw3 lh-copy ma0 navigation-detail measure">We create award-winning content that delivers. Commercials, online, broadcast and fiction - all under one roof. Our stories are moving, entertaining and powerful. Welcome to Mayhem.</p>
             </div>
 
             <div id="clients" data-tab-content="clients" class="col-xs tab-content">
               <ul class="client-list flex flex-column flex-wrap list ma0 box pl0">
                 {% for client in site.data.clients %}
-                <li class="w-third f5 f4-l fw3 lh-copy ma0 pr3 pt0">
-                  {{ client.name }}
-                </li>
+                  <li class="w-third f5 f4-l fw3 lh-copy ma0 pr3 pt0">
+                    {{ client.name }}
+                  </li>
                 {% endfor %}
               </ul>
             </div>
@@ -54,16 +52,16 @@
                     General enquiries
                   </h2>
                   <div class="box">
-                    <a class="f6 f5-l fw3 w-100-ns lh-copy link link--underline" href="mailto:hello@mediamayhem.tv">
-                      hello@mediamayhem.tv
+                    <a class="f6 f5-l fw3 w-100-ns lh-copy link link--underline" href="mailto:hello@mayhemcreative.co.uk">
+                      hello@mayhemcreative.co.uk
                     </a>
                   </div>
                   <h2 class="f6 exo ttu tracked-mega fw4 w-100-ns ma0 box lh-copy black-80 pb2">
                     New work
                   </h2>
                   <div class="box">
-                    <a class="f6 f5-l lh-copy fw3 w-100-ns link link--underline" href="mailto:ian@mediamayhem.tv">
-                      ian@mediamayhem.tv
+                    <a class="f6 f5-l lh-copy fw3 w-100-ns link link--underline" href="mailto:ian@mayhemcreative.co.uk">
+                      ian@mayhemcreative.co.uk
                     </a>
                   </div>
                 </div>
@@ -73,10 +71,10 @@
                     Address
                   </h2>
                   <p class="f6 f5-l fw3 lh-copy ma0 measure box">
-                    6 Fredericks Place<br>
-                    London
-                    <br>
-                    EC2R 8AB<br>
+                    4th floor<br />
+                    35/37 Ludgate Hill<br />
+                    City<br />
+                    EC4M 7JN
                   </p>
                 </div>
 
