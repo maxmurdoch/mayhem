@@ -16,12 +16,6 @@
   .desktop-header {
     display: block;
     padding: 2rem 0;
-    height: 10rem;
-  }
-}
-
-@media (min-width: $lbp) {
-  .desktop-header {
     height: 12rem;
   }
 }
