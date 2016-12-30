@@ -4,7 +4,7 @@ categories:
 - sport
 order: 6
 vimeoid: 164488880
-image: "/uploads/TGS_02.jpg"
+image: "/uploads/gold%20standard%20small.jpg"
 subtitle: york rugby
 ---
 
