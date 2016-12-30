@@ -4,7 +4,7 @@ date: 2016-12-12 00:00:00 Z
 categories:
 - fashion
 - commercial
-thumbnail-image: "/uploads/_7347.png"
+thumbnail-image: "/uploads/ba.jpg"
 header-image: "/uploads/123-C16_G_Student-2.jpg"
 long: true
 header-caption: 'From left to right: Ian Packard (Producer), Tom Day (Director), Dan
