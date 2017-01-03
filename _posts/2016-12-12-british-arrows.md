@@ -5,7 +5,7 @@ breadcrumb: British Arrows
 categories:
 - fashion
 - commercial
-thumbnail-image: "/uploads/ba.jpg"
+thumbnail-image: "/uploads/123-C16_G_Student-2%20smaller.jpg"
 header-image: "/uploads/123-C16_G_Student-2.jpg"
 long: true
 header-caption: 'From left to right: Ian Packard (Producer), Tom Day (Director), Dan
