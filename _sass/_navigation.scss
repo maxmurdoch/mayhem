@@ -5,3 +5,13 @@
 .nav-item:last-of-type {
   padding-bottom: 0;
 }
+
+.nav-detail {
+  font-size: 1rem;
+}
+
+@media (min-width: $sbp) {
+  .nav-detail {
+    font-size: 1.125rem;
+  }
+}

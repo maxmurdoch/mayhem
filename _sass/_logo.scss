@@ -1,10 +1,16 @@
 .logo {
-  max-height: 3rem;
+  max-height: 4rem;
 }
 
 @media (min-width: $mbp) {
   .logo {
-    max-height: 4rem;
+    max-height: 5rem;
+  }
+}
+
+@media (min-width: $lbp) {
+  .logo {
+    max-height: 6rem;
   }
 }
 

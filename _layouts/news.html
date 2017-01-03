@@ -8,7 +8,9 @@ layout: default
     <div class="wrapper">
 
       <div class="row">
-        <a class="pointer exo f5 f4-ns fw3 ttu tracked flex align-center pb3" onclick="window.history.back()"><i class="f4 f3-ns fw3 pr2 material-icons">arrow_back</i> <span>Back</span></a>
+        <div class="col-xs-12 flex">
+          <a class="breadcrumb pointer exo f6 f5-ns fw4 ttu tracked align-center pb3 black-40" href="/">Home</a> &middot; <a class="breadcrumb pointer exo f6 f5-ns fw4 ttu tracked align-center pb3" href="/news">News</a> &middot; <h2 class="breadcrumb__leaf exo f6 f5-ns fw4 ttu tracked align-center pb3" href="/news">{{ page.breadcrumb }}</h2>
+        </div>
         <header class="col-xs-12 box">
           {% if page.videoID %}
           {% include video.html id=page.videoID caption=page.videoCaption %}

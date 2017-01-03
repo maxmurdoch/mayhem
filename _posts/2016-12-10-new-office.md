@@ -1,6 +1,7 @@
 ---
 title: New year - more mayhem
 date: 2016-12-10 00:00:00 Z
+breadcrumb: New year
 categories:
 - business
 thumbnail-image: "/uploads/New%20office%20iamge%202%20smaller.jpg"
