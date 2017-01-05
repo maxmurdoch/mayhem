@@ -4,6 +4,7 @@ date: 2016-12-12 00:00:00 Z
 categories:
 - fashion
 - commercial
+breadcrumb: British Arrows
 thumbnail-image: "/uploads/123-C16_G_Student-2%20smaller.jpg"
 header-image: "/uploads/123-C16_G_Student-2.jpg"
 long: true

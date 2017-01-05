@@ -1,6 +1,7 @@
 ---
 title: Shaken not stirred
 date: 2016-06-27 14:32:00 Z
+breadcrumb: Shaken
 thumbnail-image: "/uploads/Gentleman's%20Journal%20article%203%20smaller.jpg"
 header-image: "/uploads/Gentleman's%20Journal%20article%203.jpg"
 ---
