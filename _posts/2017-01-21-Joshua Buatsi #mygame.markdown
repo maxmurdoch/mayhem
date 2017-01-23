@@ -4,8 +4,6 @@ date: 2017-01-21 13:15:00 Z
 categories:
 - "#mygame"
 - sport
-- boxing
-- promo
 - commercial
 thumbnail-image: "/uploads/smaller.jpg"
 header-image: "/uploads/Small.jpg"
