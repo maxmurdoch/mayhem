@@ -6,7 +6,7 @@
     <div data-vimeoid="{{ include.video.vimeoid }}">
       <img class="z-0 videoCover" src="{{ include.video.image }}" />
       <div class="z-5 videoCenter">
-        {% if include.video.dark == true %}
+        {% if include.video.is-dark == true %}
         <svg class="playLogoSvg playLogoSvg--dark" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path d="M8 5v14l11-7z"/>
           <path d="M0 0h24v24H0z" fill="none"/>
