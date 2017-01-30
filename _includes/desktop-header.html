@@ -28,9 +28,9 @@
 
             <div id="clients" data-tab-content="clients" class="col-xs tab-content">
               <ul class="client-list flex flex-column flex-wrap list ma0 box pl0">
-                {% for client in site.data.clients %}
+                {% for client in site.clients %}
                   <li class="w-third w-25-l nav-detail fw3 lh-copy ma0 pr3 pt0">
-                    {{ client.name }}
+                    {{ client }}
                   </li>
                 {% endfor %}
               </ul>
@@ -44,16 +44,16 @@
                     General enquiries
                   </h2>
                   <div class="box">
-                    <a class="f6 f5-l fw3 w-100-ns lh-copy link link--underline" href="mailto:hello@mayhemcreative.co.uk">
-                      hello@mayhemcreative.co.uk
+                    <a class="f6 f5-l fw3 w-100-ns lh-copy link link--underline" href="mailto:{{ site.contact.general }}">
+                      {{ site.contact.general }}
                     </a>
                   </div>
                   <h2 class="f6 exo ttu tracked-mega fw4 w-100-ns ma0 box lh-copy black-80 pb2">
                     New work
                   </h2>
                   <div class="box">
-                    <a class="f6 f5-l lh-copy fw3 w-100-ns link link--underline" href="mailto:ian@mayhemcreative.co.uk">
-                      ian@mayhemcreative.co.uk
+                    <a class="f6 f5-l lh-copy fw3 w-100-ns link link--underline" href="mailto:{{ site.contact.new-work }}">
+                      {{ site.contact.new-work }}
                     </a>
                   </div>
                 </div>
@@ -63,10 +63,9 @@
                     Address
                   </h2>
                   <p class="f6 f5-l fw3 lh-copy ma0 measure box">
-                    4th floor<br />
-                    35/37 Ludgate Hill<br />
-                    City<br />
-                    EC4M 7JN
+                    {% for line in site.contact.address %}
+                    {{ line }}<br />
+                    {% endfor %}
                   </p>
                 </div>
 
@@ -75,7 +74,7 @@
                     Phone
                   </h2>
                   <p class="f6 f5-l w-two-thirds w-100-ns fw3 lh-copy ma0 measure box">
-                    <a class="link link--underline" href="tel:02071 278 783">02071 278 783</a>
+                    <a class="link link--underline" href="tel:{{ site.contact.telephone }}">{{ site.contact.telephone }}</a>
                   </p>
                 </div>
               </div>

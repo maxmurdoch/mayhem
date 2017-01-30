@@ -40,7 +40,6 @@ baseurl:
 url: 
 twitter_username: mediamayhemTV
 markdown: kramdown
-theme: minima
 sass: 
 gems:
 - jekyll-feed
@@ -51,3 +50,39 @@ navigation:
   url: "/clients"
 - title: contact
   url: "/contact"
+contact:
+  general: hello@mayhemcreative.co.uk
+  new-work: ian@mayhemcreative.co.uk
+  telephone: 020 7236 3451
+  address:
+  - 4th floor
+  - 35/37 Ludgate Hill
+  - City
+  - EC4M 7JN
+clients:
+- 20th Century Fox
+- 2K Games
+- Alpha LSG
+- BBC
+- Beko
+- Breitling
+- Cambridge University
+- Clinique
+- Conde Nast
+- Deliveroo
+- Gentleman’s Journal
+- Glastonbury
+- ITV Studios
+- Jigsaw
+- Merceica
+- NBA
+- Olympics 2012
+- Olympus
+- Red Bull
+- Schauspiel Haus
+- Team GB
+- Time Out London
+- Turnbull & Asser
+- V&A Musuem
+- Winsor & Newton
+- Wrigley’s
