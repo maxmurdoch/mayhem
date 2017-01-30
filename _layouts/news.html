@@ -12,8 +12,8 @@ layout: default
           <a class="breadcrumb pointer exo f6 f5-ns fw4 ttu tracked align-center pb3 black-40" href="/">Home</a> &middot; <a class="breadcrumb pointer exo f6 f5-ns fw4 ttu tracked align-center pb3" href="/news">News</a> &middot; <h2 class="breadcrumb__leaf exo f6 f5-ns fw4 ttu tracked align-center pb3" href="/news">{{ page.breadcrumb }}</h2>
         </div>
         <header class="col-xs-12 box">
-          {% if page.vimeoID %}
-          {% include video.html id=page.vimeoID caption=page.vimeoCaption %}
+          {% if page.video.show %}
+          {% include video.html video=page.video %}
           {% else if page.header-image %}
           <div class="row items-end">
             <div class="col-xs-12">

@@ -29,8 +29,13 @@ defaults:
     thumbnail-image: ''
     header-image: ''
     long: true
-    vimeoID: ''
-    vimeoCaption: ''
+    video:
+      show: false
+      vimeoid: ''
+      image: ''
+      title: ''
+      subtitle: ''
+      dark: false
 exclude:
 - Gemfile
 - Gemfile.lock
