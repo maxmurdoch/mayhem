@@ -6,7 +6,13 @@ categories:
 - sport
 - commercial
 thumbnail-image: "/uploads/smaller.jpg"
-header-image: "/uploads/Small.jpg"
+video:
+  is-visible: true
+  vimeoid: 195385208
+  image: "/uploads/Small.jpg"
+  title: Joshua Buatsi
+  subtitle: "#mygame"
+  is-dark: true
 vimeoID: 195385208
 breadcrumb: 'Joshua Buatsi '
 header-caption: Joshua Buatsi
