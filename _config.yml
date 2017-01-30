@@ -38,11 +38,11 @@ email: hello@mayhemcreative.co.uk
 description: We create award-winning content that delivers. Commercials, online, broadcast
   and fiction - all under one roof. Our stories are moving, entertaining and powerful.
   Welcome to Mayhem.
-baseurl:
-url:
+baseurl: 
+url: 
 twitter_username: mediamayhemTV
 markdown: kramdown
-sass:
+sass: 
 gems:
 - jekyll-feed
 navigation:
@@ -91,10 +91,10 @@ clients:
 news-limit: 8
 social-media:
 - type: twitter
-  url: "https://twitter.com/mediamayhemtv"
+  url: https://twitter.com/mediamayhemtv
 - type: facebook
-  url: "https://www.facebook.com/mayhemcreative/"
+  url: https://www.facebook.com/mayhemcreative/
 - type: instagram
-  url: "https://www.instagram.com/mayhem_creative/"
+  url: https://www.instagram.com/mayhem_creative/
 - type: vimeo
-  url: "https://vimeo.com/mayhemuk"
+  url: https://vimeo.com/mayhemuk
