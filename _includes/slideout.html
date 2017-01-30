@@ -16,7 +16,7 @@
           </div>
           <div class="w-100">
             <p class="box f6 f5-l fw3 lh-copy ma0">
-              We create award-winning content that delivers. Commercials, online, broadcast and fiction - all under one roof. Our stories are moving, entertaining and powerful. Welcome to Mayhem.
+              {{ site.description }}
             </p>
           </div>
         </div>
@@ -46,18 +46,17 @@
             Address
           </h2>
           <p class="f6 f5-l black-80 fw3 lh-copy ma0 measure box">
-            4th floor<br/>
-            35/37 Ludgate Hill<br/>
-            City<br/>
-            EC4M 7JN
+            {% for line in site.contact.address %}
+            {{ line }}<br />
+            {% endfor %}
           </p>
 
           <h2 class="small exo ttu tracked-mega fw4 ma0 pb2 black-80 lh-copy">
             General enquiries
           </h2>
           <div class="box">
-            <a class="f6 pb1 f5-l fw3 w-two-thirds w-100-ns lh-copy link black-80 bb b--black-80" href="mailto:hello@mayhemcreative.co.uk">
-              hello@mayhemcreative.co.uk
+            <a class="f6 pb1 f5-l fw3 w-two-thirds w-100-ns lh-copy link black-80 bb b--black-80" href="mailto:{{ site.contact.general }}">
+              {{ site.contact.general }}
             </a>
           </div>
 
@@ -65,8 +64,8 @@
             New work
           </h2>
           <div class="box">
-            <a class="f6 f5-l lh-copy fw3 w-two-thirds w-100-ns black-80 bb b--black-80 pb1" href="mailto:ian@mayhemcreative.co.uk">
-              ian@mayhemcreative.co.uk
+            <a class="f6 f5-l lh-copy fw3 w-two-thirds w-100-ns black-80 bb b--black-80 pb1" href="mailto:{{ site.contact.new-work }}">
+              {{ site.contact.new-work }}
             </a>
           </div>
 
@@ -74,7 +73,7 @@
             Phone
           </h2>
           <p class="f6 f5-l pb1 fw3 lh-copy ma0 box">
-            <a class="black-80 bb b--black-80" href="tel:02071 278 783">02071 278 783</a>
+            <a class="black-80 bb b--black-80" href="tel:{{ site.contact.telephone }}">{{ site.contact.telephone }}</a>
           </p>
         </div>
       </div>
