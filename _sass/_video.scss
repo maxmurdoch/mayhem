@@ -92,6 +92,14 @@
   width: 100%;
 }
 
+.videoCenter--fullScreen .videoTitle {
+  font-size: 4vw;
+}
+
+.videoCenter--fullScreen .videoSubtitle {
+  font-size: 2vw;
+}
+
 @media (min-width: $sbp) {
   .showcase-list-item:nth-of-type(3n+1) .videoTitle {
     font-size: 3.5vw;

@@ -5,7 +5,11 @@
   <div class="videoInnerContainer">
     <div data-vimeoid="{{ include.video.vimeoid }}">
       <img class="z-0 videoCover" src="{{ include.video.image }}" />
+      {% if include.video.is-full-screen == true %}
+      <div class="z-5 videoCenter videoCenter--fullScreen">
+      {% else if %}
       <div class="z-5 videoCenter">
+      {% endif %}
         {% if include.video.is-dark == true %}
         <svg class="playLogoSvg playLogoSvg--dark" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path d="M8 5v14l11-7z"/>
