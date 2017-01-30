@@ -6,3 +6,4 @@ image: "/uploads/winsor%20and%20newton%20smaller.jpg"
 subtitle: winsor & newton
 is-dark: true
 ---
+
