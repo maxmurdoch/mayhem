@@ -12,7 +12,7 @@ video:
   image: "/uploads/Small.jpg"
   title: Joshua Buatsi
   subtitle: "#mygame"
-  is-dark: true
+  is-dark: false
 vimeoID: 195385208
 breadcrumb: 'Joshua Buatsi '
 header-caption: Joshua Buatsi
