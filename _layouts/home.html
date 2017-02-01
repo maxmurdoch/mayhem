@@ -13,7 +13,7 @@ layout: default
           </div>
 
           <section class="list news-feed row flex flex-wrap mv0 pl0">
-            {% for item in site.posts limit:10 %}
+            {% for item in site.posts limit:site.news-limit %}
             <article class="col-xs-12 col-md-6 col-lg-12 news-feed-item">
               <div class="news-feed-line">
                 {% if item.long == true %}

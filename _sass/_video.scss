@@ -40,18 +40,12 @@
   margin-top: 1rem;
   margin-bottom: 0;
   font-weight: 400;
-  font-size: 1rem;
+  font-size: 1.75vw;
   line-height: 1.4;
   text-transform: uppercase;
   transition: all 300ms ease-in-out;
   letter-spacing: 0.1rem;
   z-index: 10;
-}
-
-@media (min-width: $sbp) {
-  .videoTitle {
-    font-size: 1.25rem;
-  }
 }
 
 .videoTitle--dark {
@@ -64,7 +58,7 @@
   font-family: 'Exo';
   margin-top: 0;
   font-weight: 400;
-  font-size: 0.875rem;
+  font-size: 1vw;
   line-height: 1.4;
   text-transform: uppercase;
   transition: all 300ms ease-in-out;
@@ -74,12 +68,6 @@
 
 .videoSubtitle--dark {
   color: rgba(0, 0, 0, 0.8);
-}
-
-@media (min-width: $sbp) {
-  .videoSubtitle {
-    font-size: 0.75rem;
-  }
 }
 
 .videoInnerContainer:hover {
@@ -104,13 +92,21 @@
   width: 100%;
 }
 
+.videoCenter--fullScreen .videoTitle {
+  font-size: 4vw;
+}
+
+.videoCenter--fullScreen .videoSubtitle {
+  font-size: 2vw;
+}
+
 @media (min-width: $sbp) {
   .showcase-list-item:nth-of-type(3n+1) .videoTitle {
-    font-size: 2rem;
+    font-size: 3.5vw;
   }
 
   .showcase-list-item:nth-of-type(3n+1) .videoSubtitle {
-    font-size: 1rem;
+    font-size: 1.5vw;
   }
 }
 

@@ -29,6 +29,13 @@ defaults:
     thumbnail-image: ''
     header-image: ''
     long: true
+    video:
+      is-visible: false
+      vimeoid: ''
+      image: ''
+      title: ''
+      subtitle: ''
+      is-dark: false
 exclude:
 - Gemfile
 - Gemfile.lock
@@ -53,7 +60,7 @@ navigation:
 contact:
   general: hello@mayhemcreative.co.uk
   new-work: ian@mayhemcreative.co.uk
-  telephone: 020 7236 3451
+  telephone: 0207 236 3451
   address:
   - 4th floor
   - 35/37 Ludgate Hill
@@ -68,7 +75,7 @@ clients:
 - Breitling
 - Cambridge University
 - Clinique
-- Conde Nast
+- Condé Nast
 - Deliveroo
 - Gentleman’s Journal
 - Glastonbury
@@ -86,3 +93,13 @@ clients:
 - V&A Musuem
 - Winsor & Newton
 - Wrigley’s
+news-limit: 8
+social-media:
+- type: twitter
+  url: https://twitter.com/mediamayhemtv
+- type: facebook
+  url: https://www.facebook.com/mayhemcreative/
+- type: instagram
+  url: https://www.instagram.com/mayhem_creative/
+- type: vimeo
+  url: https://vimeo.com/mayhemuk
