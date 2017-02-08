@@ -8,12 +8,10 @@ categories:
 thumbnail-image: "/uploads/smaller.jpg"
 video:
   is-visible: true
-  is-full-screen: true
   vimeoid: 195385208
   image: "/uploads/Small.jpg"
-  title: Joshua Buatsi
-  subtitle: "#mygame"
   is-dark: false
+  is-full-screen: true
 vimeoID: 195385208
 breadcrumb: 'Joshua Buatsi '
 header-caption: Joshua Buatsi
