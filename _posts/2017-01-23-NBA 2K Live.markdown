@@ -8,6 +8,7 @@ categories:
 - sport
 thumbnail-image: "/uploads/John-2-2%20smaller.jpg"
 video:
+  is-visible: true
   vimeoid: 203035592
   image: "/uploads/John-2-2%20smaller.jpg"
   title: NBA 2K All Star European Finals
