@@ -6,6 +6,7 @@ video:
   is-visible: true
   vimeoid: 189556305
   image: "/uploads/Screen%20Shot%202017-02-08%20at%2001.12.43.png"
+  subtitle: play
   is-full-screen: true
 breadcrumb: Luke Wallace
 ---
