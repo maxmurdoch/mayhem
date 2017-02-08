@@ -10,6 +10,7 @@ video:
   is-visible: true
   vimeoid: 195385208
   image: "/uploads/Small.jpg"
+  subtitle: play
   is-dark: false
   is-full-screen: true
 vimeoID: 195385208
