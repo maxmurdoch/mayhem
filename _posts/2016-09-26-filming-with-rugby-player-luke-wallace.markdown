@@ -1,12 +1,20 @@
 ---
 title: 'Launch of our #mygame series'
 date: 2016-09-26 15:06:00 Z
+categories:
+- sport
+- mygame
+- commercial
+- online
+tags:
+- sport
+- mygame
+- commerical
 thumbnail-image: "/uploads/luke%20wallace%20smaller.jpg"
 video:
   is-visible: true
   vimeoid: 189556305
   image: "/uploads/Screen%20Shot%202017-02-08%20at%2001.12.43.png"
-  subtitle: play
   is-full-screen: true
 breadcrumb: Luke Wallace
 ---
