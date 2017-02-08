@@ -7,7 +7,12 @@ categories:
 - event
 - sport
 thumbnail-image: "/uploads/John-2-2%20smaller.jpg"
-header-image: "/uploads/John-2-2%20small.jpg"
+video:
+  vimeoid: 203035592
+  image: "/uploads/John-2-2%20smaller.jpg"
+  title: NBA 2K All Star European Finals
+  subtitle: " Behind The Scenes"
+  is-full-screen: true
 breadcrumb: NBA 2K Live
 header-caption: 'Behind the scenes of the studio set up in the NBA London offices '
 ---
