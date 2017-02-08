@@ -5,6 +5,10 @@ categories:
 - "#mygame"
 - sport
 - commercial
+tags:
+- mygame
+- sport
+- commerical
 thumbnail-image: "/uploads/smaller.jpg"
 video:
   is-visible: true
