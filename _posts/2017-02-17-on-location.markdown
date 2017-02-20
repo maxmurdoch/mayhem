@@ -1,6 +1,6 @@
 ---
 title: On Location!
-date: 2017-02-18 08:23:00 Z
+date: 2017-02-17 08:23:00 Z
 thumbnail-image: "/uploads/Off%20The%20Dome%20Exports4-1.jpg"
 header-image: "/uploads/Off%20The%20Dome%20Exports4-1.jpg"
 header-caption: Director Roland Kennedy (R) checks a shot with Mayhem DOP Dan Atherton
