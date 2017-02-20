@@ -1,6 +1,6 @@
 ---
 title: Poets on the roof!
-date: 2017-02-20 08:38:00 Z
+date: 2017-02-19 08:38:00 Z
 thumbnail-image: "/uploads/Off%20The%20Dome%20Exports-7.jpg"
 header-image: "/uploads/Off%20The%20Dome%20Exports-7.jpg"
 header-caption: Spoken word artist Rashid talks to camera on the Mayhem roof
