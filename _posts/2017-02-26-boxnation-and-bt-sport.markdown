@@ -12,7 +12,7 @@ video:
   vimeoid: 205709446
   image: "/uploads/Screen%20Shot%202017-02-26%20at%2023.37.45.png"
   title: 'Boxnation & BT Sport: Smith vs Williams'
-  is-dark: false
+  is-dark: true
   is-full-screen: true
 ---
 
