@@ -5,7 +5,7 @@ thumbnail-image: "/uploads/MW.jpg"
 header-image: "/uploads/MW.jpg"
 video:
   bread-crumb: 
-bread-crumb: Floyd Mayweather x Mayhem
+breadcrumb: Floyd Mayweather x Mayhem
 ---
 
 Continuing our exciting work with our new client BoxNation, Mayhem UK attended the Davis vs. Walsh press conference this afternoon hosted by Frank Warren and Floyd Mayweather.
