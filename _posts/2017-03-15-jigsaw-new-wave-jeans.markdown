@@ -1,6 +1,6 @@
 ---
 title: Jigsaw - New Wave Jeans
-date: 2017-03-16 11:04:00 Z
+date: 2017-03-15 11:04:00 Z
 categories:
 - advert
 - fashion
