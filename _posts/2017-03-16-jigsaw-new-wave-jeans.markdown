@@ -1,9 +1,17 @@
 ---
 title: Jigsaw - New Wave Jeans
 date: 2017-03-16 11:04:00 Z
+categories:
+- advert
+- fashion
+- jigsaw
+tags:
+- fashion
+- jigsaw
 thumbnail-image: "/uploads/jigdawthumn-1%20copysmall.jpg"
 header-image: "/uploads/jigdawthumn-1%20copysmall.jpg"
 video:
+  is-visible: true
   vimeoid: 208642186
   image: "/uploads/jigdawthumn-1%20copysmall.jpg"
 breadcrumb: Jigsaw New Wave Jeans
