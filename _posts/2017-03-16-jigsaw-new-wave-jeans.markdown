@@ -9,7 +9,6 @@ tags:
 - fashion
 - jigsaw
 thumbnail-image: "/uploads/jigdawthumn-1%20copysmall.jpg"
-header-image: "/uploads/jigdawthumn-1%20copysmall.jpg"
 video:
   is-visible: true
   vimeoid: 208642186
