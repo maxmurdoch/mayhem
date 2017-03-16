@@ -1,6 +1,12 @@
 ---
 title: Roses '17 - Orillo Collaboration
 date: 2017-03-16 11:53:00 Z
+categories:
+- sport
+tags:
+- sport
+- roses
+- york
 thumbnail-image: "/uploads/Roses_JPGS-9.jpg"
 header-image: "/uploads/Roses_JPGS-22.jpg"
 breadcrumb: Roses 2017
