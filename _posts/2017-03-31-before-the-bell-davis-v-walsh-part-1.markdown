@@ -1,0 +1,15 @@
+---
+title: Before The Bell | Davis v Walsh | Part 1
+date: 2017-03-31 10:57:00 Z
+thumbnail-image: "/uploads/Screen%20Shot%202017-03-31%20at%2011.58.02.jpg"
+header-image: "/uploads/Screen%20Shot%202017-03-31%20at%2012.02.30.jpg"
+video:
+  is-visible: true
+  vimeoid: 207655666
+  image: "/uploads/Screen%20Shot%202017-03-31%20at%2012.02.30.jpg"
+  subtitle: PLAY
+bread crumb: Before The Bell
+header-caption: Before The Bell
+---
+
+Last week saw the launch of a new short documentary series we made for BoxNationTV + BT Sport - check out Ep 1 feat Floyd Mayweather & Gervonta "Tank" Davis above.
