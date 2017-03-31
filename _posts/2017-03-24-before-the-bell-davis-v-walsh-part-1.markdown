@@ -1,6 +1,6 @@
 ---
 title: Before The Bell | Davis v Walsh | Part 1
-date: 2017-03-31 10:57:00 Z
+date: 2017-03-24 10:57:00 Z
 thumbnail-image: "/uploads/Screen%20Shot%202017-03-31%20at%2012.02.30.jpg"
 header-image: "/uploads/Screen%20Shot%202017-03-31%20at%2012.02.30.jpg"
 video:
