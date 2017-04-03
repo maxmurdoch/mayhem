@@ -7,7 +7,7 @@ categories:
 tags:
 - sport
 - boxing
-order: 2
+order: 6
 vimeoid: 205709446
 image: "/uploads/SmithWilliamsWebsite2.jpg"
 subtitle: Boxnation & BT Sport
