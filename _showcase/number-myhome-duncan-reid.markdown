@@ -1,5 +1,5 @@
 ---
-title: "#MyHome - Duncan Reid"
+title: "#MyHome"
 date: 2017-04-03 09:43:00 Z
 order: 2
 vimeoid: 210654132
