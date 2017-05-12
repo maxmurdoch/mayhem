@@ -15,7 +15,7 @@ video:
   image: "/uploads/Fire_2.9.3fds.jpg"
   title: Inferno
   subtitle: Roses 2017
-bread crumb: Roses 2017
+bread crumb: Roses 2017 Released!
 header-caption: Inferno - Roses 2017
 ---
 
