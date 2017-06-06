@@ -1,8 +1,8 @@
 ---
-title: Cambridge Varsity Trailer
+title: People Not Parties
 order: 15
-vimeoid: 157905379
-image: "/uploads/cambridge%20varsity%20small.jpg"
-subtitle: team first & university of cambridge
+vimeoid: https://vimeo.com/219205932
+image: "/uploads/2.jpg"
+subtitle: More United
 ---
 
