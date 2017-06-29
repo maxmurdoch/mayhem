@@ -1,6 +1,6 @@
 ---
 title: David Gandy Debut
-date: 2017-06-29 19:09:00 Z
+date: 2017-06-20 19:09:00 Z
 tags:
 - gandy
 - gentlemans journal
