@@ -7,22 +7,28 @@ breadcrumb: Mayhem Live!
 header-caption: Mayhem Live!
 ---
 
+GO LIVE NOW! 
+hello@mayhemcreative.co.uk
++44 207 236 3451
+
 Welcome to Mayhem Live!
 
-Live is the social media buzzword of 2017 and a game changer in reaching your audience in a bigger way than ever. Mayhem has invested significantly in the medium, bringing together a dedicated crew working with top of the range equipment allowing us to live stream from anywhere in the world, no matter how big or small, up to 4K! 
+LIVE is the buzzword of 2017 and a game changer in reaching your audience. 
 
-Be it a concert, a tournament, a debate or event - we can stream it to your audience and grow your viewership to new levels.
+We have invested significantly in the medium, not only with top-of-the-range equipment, but also in software that gives your viewers the most interactive viewing experience yet. We can create competitions, give-away prizes and host quizzes all alongside our main video stream. 
 
-- Live videos on Facebook, Twitter, Instagram & Youtube rank higher than any other type of content in the news feed
-- On average, users comment over 10 times more on live videos than regular videos.
-- Facebook Live Videos are also watched 3 times longer than regular videos
-- Live distribution of information, feedback, changes and updates to your audience with immediate feedback.
+Be it a concert, a tournament, a debate or event, going live with Mayhem isn't just about streaming content with our award winning crews, but interacting with viewers throughout the stream to maximise reach and influence and grow your brand or event. 
+
+- Live videos on Facebook, Twitter, Instagram & Youtube RANK HIGHER than any other type of content in the news feed.
+
+- On average, users comment over 10 TIMES MORE on live videos than regular videos.
+
+- Facebook Live Videos are also watched 3 TIMES LONGER than regular videos
+
 - 67% of live video viewers are more likely to buy a ticket to a concert or event after watching a live video of that event or a similar one.
 
-At a fraction of the cost of TV, we can now stream live multi-camera coverage to the world through multiple social media channels or your output of choice. 
+We can stream live multiple camera coverage to the world through multiple social media channels or your output of choice with a very small footprint.
 
-Let us build a show for you.
-
-We handle everything from preparing inserts, VTS (video inserts), graphics, music, presenters, scripts and lighting to producing and directing the whole package. 
+We will handle everything from preparing inserts, graphics, music, presenters, scripts and lighting to producing and directing the whole package. 
 
 If you would like to find out more, drop us an email at hello@mayhemcreative.co.uk or call John on 0207 236 3451 to find out more.
