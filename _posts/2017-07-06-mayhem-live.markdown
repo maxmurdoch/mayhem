@@ -7,7 +7,7 @@ breadcrumb: Mayhem Live!
 header-caption: Mayhem Live!
 ---
 
-GO LIVE NOW! 
+GO LIVE NOW! Contact us at:
 hello@mayhemcreative.co.uk
 +44 207 236 3451
 
