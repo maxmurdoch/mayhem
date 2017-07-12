@@ -2,7 +2,7 @@
 title: Mayhem Live!
 date: 2017-07-06 09:51:00 Z
 thumbnail-image: "/uploads/FullSizeRender2.jpg"
-header-image: "/uploads/FullSizeRender2.jpg"
+header-image: "/uploads/DSC03257%20copy.jpg"
 breadcrumb: Mayhem Live!
 header-caption: Mayhem Live!
 ---
