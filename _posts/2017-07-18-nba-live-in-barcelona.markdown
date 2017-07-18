@@ -2,7 +2,7 @@
 title: NBA Live in Barcelona
 date: 2017-07-18 13:22:00 Z
 thumbnail-image: "/uploads/sdf.jpg"
-header-image: "/uploads/_DSC1130-2fsdf.jpg"
+header-image: "/uploads/hj.jpg"
 header-caption: NBA Live in Barcelona
 breadcrumb: NBA Live in Barcelona
 ---
