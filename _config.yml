@@ -71,7 +71,6 @@ clients:
 - 2K Games
 - Alpha LSG
 - AMD
-- BBC
 - Beko
 - Boxnation
 - Breitling
@@ -82,31 +81,23 @@ clients:
 - Deliveroo
 - EA Sports
 - Fuse International
-- Gentleman’s Journal
-- Glastonbury
 - 'Grey London
 
 '
 - Grundig
 - Innocent Smoothies
-- ITV Studios
 - Jigsaw
 - Johnnie Walker
 - Merceica
 - NBA
-- Olympics 2012
 - Olympus
 - Qantas
-- Red Bull
-- Schauspiel Haus
-- Team GB
 - The British & Irish Lions
 - Time Out London
 - Turnbull & Asser
 - V&A Musuem
 - Virgin Active
 - Winsor & Newton
-- Wrigley’s
 news-limit: 8
 social-media:
 - type: twitter
