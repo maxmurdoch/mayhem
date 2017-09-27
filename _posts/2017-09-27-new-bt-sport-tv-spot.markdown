@@ -10,9 +10,9 @@ video:
   subtitle: BT Sport & Boxnation
 ---
 
-Check out our new spot for BT Sport & Boxnation featuring Josh Warrington. On October 21st he will face undefeated Dane Dennis Ceylan in the final IBF featherweight title eliminator.
+Check out our new spot for BT Sport & Boxnation featuring Josh Warrington. On October 21st he will face undefeated Dane Dennis Ceylan in the final IBF featherweight title eliminator, the promo will go live across the BT Sport network this week.
 
-Director: Tom Day
-DOP: Hamish Anderson
-Sound Design: Rob Ashton
+Director: Tom Day ||
+DOP: Hamish Anderson ||
+Sound Design: Rob Ashton ||
 Colourist: Dan Garden
