@@ -1,5 +1,5 @@
 ---
-title: Josh Warrington
+title: Edge Of Glory
 categories:
 - sport
 tags:
