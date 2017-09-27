@@ -1,5 +1,5 @@
 ---
-title: New Virgin Active TV Ad!
+title: New Virgin Active TVC
 date: 2017-09-05 11:29:00 Z
 thumbnail-image: "/uploads/Screen%20Shot%202017-09-05%20at%2012.26.51dd.jpg"
 header-image: "/uploads/Screen%20Shot%202017-09-05%20at%2012.26.51dd.jpg"
