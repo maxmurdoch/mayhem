@@ -1,6 +1,16 @@
 ---
 title: David Gandy in Monaco
 date: 2017-10-03 15:56:00 Z
+categories:
+- david gandy
+- yacht
+- monaco
+tags:
+- gandy
+- david gandy
+- monaco
+- yacht
+- film
 thumbnail-image: "/uploads/Screen%20Shot%202017-10-03%20at%2011.56.06.png"
 header-image: "/uploads/Screen%20Shot%202017-10-03%20at%2011.56.33.png"
 header-captions: David Gandy in Monaco
