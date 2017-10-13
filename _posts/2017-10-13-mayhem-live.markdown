@@ -1,19 +1,18 @@
 ---
 title: Mayhem Live!
-date: 2017-07-06 09:51:00 Z
+date: 2017-10-13 09:51:00 Z
 thumbnail-image: "/uploads/DSC03257%20copy.jpg"
 header-image: "/uploads/DSC0325ss7%20copy.jpg"
 breadcrumb: Mayhem Live!
 header-caption: Mayhem Live!
 ---
 
-GO LIVE NOW! Contact us at:
-hello@mayhemcreative.co.uk
-+44 207 236 3451
 
 Welcome to Mayhem Live!
 
 LIVE is the buzzword of 2017 and a game changer in reaching your audience. 
+
+It has been a busy few months for Mayhem Live, with the team travelling across the globe to stream a number of live events/experiences to Facebook, Twitch & Youtube. 
 
 We have invested significantly in the medium, not only with top-of-the-range equipment, but also in software that gives your viewers the most interactive viewing experience yet. We can create competitions, give-away prizes and host quizzes all alongside our main video stream. 
 
