@@ -9,4 +9,4 @@ video:
   image: "/uploads/Screen%20Shot%202017-09-05%20at%2012.26.51dd.jpg"
 ---
 
-Yesterday our new ad for Virgin Active went live on SkyGo & 4od! The film was directed by Joshua Thornton, shot by Hamish Anderson and edited by Robert Ashton. 
+Yesterday our new ad for Virgin Active went live on SkyGo & 4oD! The film was directed by Joshua Thornton, shot by Hamish Anderson and edited by Robert Ashton. 
