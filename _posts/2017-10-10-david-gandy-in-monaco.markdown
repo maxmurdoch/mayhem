@@ -1,6 +1,6 @@
 ---
 title: David Gandy in Monaco
-date: 2017-10-03 15:56:00 Z
+date: 2017-10-10 15:56:00 Z
 categories:
 - david gandy
 - yacht
