@@ -3,7 +3,7 @@ title: Spice Up Your Gym Life
 date: 2017-04-03 09:43:00 Z
 order: 4
 vimeoid: 232368524
-image: "/uploads/Screen%20Shot%202017-09-05%20at%2012.26.51dd.jpg"
+image: "/uploads/222.jpg"
 subtitle: Virgin Active
 ---
 
