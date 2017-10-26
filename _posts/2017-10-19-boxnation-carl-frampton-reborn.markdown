@@ -13,5 +13,5 @@ video:
   breadcrumb: Carl Frampton - Reborn
 ---
 
-The weeks, days and hours are counting down to Carl Frampton 's eagerly anticipated return. We are working on a new promo for BT Sport & Boxnation ahead of "The Jackal's" fight at the SSE Arena on November 18 against Horacio Garcia. 
+The weeks, days and hours are counting down to Carl Frampton's eagerly anticipated return. We are working on a new promo for BT Sport & Boxnation ahead of "The Jackal's" fight at the SSE Arena on November 18 against Horacio Garcia. 
 Check out this short clip of the upcoming film.
