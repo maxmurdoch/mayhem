@@ -4,7 +4,7 @@ categories:
 - commercial
 order: 1
 vimeoid: 185139774
-image: "/uploads/teach-a-man-to-fish.jpg"
+image: "/uploads/TAMTF_012.jpg"
 subtitle: jigsaw menswear
 ---
 
