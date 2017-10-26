@@ -8,6 +8,7 @@ video:
   vimeoid: 240074793
   image: "/uploads/Screen%20Shot%202017-10-26%20at%2023.26.30.jpg"
   title: Play
+  subtitle: "(teaser clip)"
   header-caption: Carl Frampton - Reborn - Clip
   breadcrumb: Carl Frampton - Reborn - Clip
 ---
