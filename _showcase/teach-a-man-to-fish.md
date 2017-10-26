@@ -4,7 +4,7 @@ categories:
 - commercial
 order: 1
 vimeoid: 185139774
-image: "/uploads/jigsaw%20british%20arrows%20smaller.jpg"
+image: "/uploads/teach-a-man-to-fish.jpg"
 subtitle: jigsaw menswear
 ---
 
