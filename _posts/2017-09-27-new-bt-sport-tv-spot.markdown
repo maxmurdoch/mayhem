@@ -4,7 +4,7 @@ date: 2017-09-27 13:24:00 Z
 thumbnail-image: "/uploads/EdgeOfGlory_DNxHR-HQX.00_00_25_15.Still001.jpg"
 video:
   is-visible: true
-  vimeoid: 235417217
+  vimeoid: 240148872
   image: "/uploads/EdgeOfGlory_DNxHR-HQX.00_02_06_03.Still023.jpg"
   title: Josh Warrington - Edge Of Glory
   subtitle: BT Sport & Boxnation
