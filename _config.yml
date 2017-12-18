@@ -80,6 +80,7 @@ clients:
 - Condé Nast
 - Deliveroo
 - EA Sports
+- Edelman
 - Fuse International
 - 'Grey London
 
@@ -91,6 +92,7 @@ clients:
 - Merceica
 - NBA
 - New York Knicks
+- Nissan
 - Olympus
 - Qantas
 - Reece's Pieces
@@ -110,3 +112,5 @@ social-media:
   url: https://www.instagram.com/mayhem_creative/
 - type: vimeo
   url: https://vimeo.com/mayhemuk
+- type: 
+  url: 
