@@ -5,6 +5,9 @@ thumbnail-image: "/uploads/dddd.jpg"
 video:
   is-visible: true
   vimeoid: 247397666
+  image: "/uploads/Screen%20Shot%202018-01-18%20at%2011.32.31fdsd.jpg"
+  title: Maladie De La Mort
+  subtitle: Teaser
 ---
 
 Last night, the multimedia-theatre-production that we co-produced premiered at the Théâtre des Bouffes du Nord in Paris, directed by the renowned Katie Mitchell and produced by Mayhem's John Higgins.
