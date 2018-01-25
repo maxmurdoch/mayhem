@@ -38,6 +38,7 @@ defaults:
     type: posts
   values:
     layout: news
+    brand: ''
     author: ''
     thumbnail-image: ''
     header-image: ''
