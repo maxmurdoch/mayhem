@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% assign brand = site.brands | where: "title", page.brand | first %}
+
+<div class="container">
+  <div class="wrapper">
+    <div class="row">
+      <div class="col-xs-12 flex">
+        <a class="breadcrumb pointer exo f6 f5-ns fw4 ttu tracked align-center pb3 black-40" href="{{ brand.link | default: / }}">Home</a> &middot; <h2 class="breadcrumb__leaf exo f6 f5-ns fw4 ttu tracked align-center pb3">News</h2>
+      </div>
+    </div>
+
+    <section class="row flex-wrap">
+      {% for item in site.posts %}
+        {% if item.brand == page.brand %}
+        <article class="col-xs-12 col-md-6 col-lg-4">
+          <div class="box">
+            {% if item.long == true %}
+              {% include news-feed-long.html post=item %}
+            {% else %}
+              {% include news-feed-short.html post=item %}
+            {% endif %}
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </section>
+  </div>
+</div>

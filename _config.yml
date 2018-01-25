@@ -1,6 +1,7 @@
 ---
 title: Mayhem
 timezone: UTC
+permalink: /:year/:month/:day/:title/
 collections:
   posts:
     title: Posts
@@ -11,6 +12,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  brands:
+    title: Brands
+    output: false
 defaults:
 - scope:
     path: ''
@@ -20,6 +24,16 @@ defaults:
     vimeoid: ''
     image: ''
     subtitle: ''
+- scope:
+    path: ''
+    type: brand
+  values:
+    title: ''
+    logo: ''
+    clients: 
+      -
+    about: ''
+    link: ''
 - scope:
     path: ''
     type: posts

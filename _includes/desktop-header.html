@@ -1,3 +1,5 @@
+{% assign brand = site.brands | where: "title", page.brand | first %}
+
 <header class="desktop-header bg-white" role="banner">
   <div class="container">
     <div class="wrapper">
@@ -24,13 +26,13 @@
           <div class="row">
             <div id="about" data-tab-content="about" class="col-xs tab-content">
               <p class="box fw3 lh-copy ma0 nav-detail measure">
-                {{ site.description }}
+                {{ brand.about }}
               </p>
             </div>
 
             <div id="clients" data-tab-content="clients" class="col-xs tab-content">
               <ul class="client-list flex flex-column flex-wrap list ma0 box pl0">
-                {% for client in site.clients %}
+                {% for client in brand.clients %}
                   <li class="w-third w-25-l nav-detail fw3 lh-copy ma0 pr3 pt0">
                     {{ client }}
                   </li>
@@ -85,9 +87,10 @@
         </div>
 
         <div class="col-xs-12 col-md-1 col-lg-1">
+          {{ include.type }}
           <div class="box flex flex-auto justify-end-l">
-            <a class="link" href="/">
-              <img class="logo" src="/uploads/logo-old.svg"/>
+            <a class="link" href="{{ brand.link | default: "/" }}">
+              <img class="logo" src={{ brand.logo | default: "/uploads/logo-old.svg" }}/>
             </a>
           </div>
         </div>

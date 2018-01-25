@@ -7,6 +7,7 @@ breadcrumb: New year
 thumbnail-image: "/uploads/New%20office%20iamge%202%20smaller.jpg"
 header-image: "/uploads/New%20office%20iamge%202.jpg"
 long: true
+brand: "corporate"
 ---
 
 **Mayhem’s office upping sticks to St. Pauls in London**

@@ -1,4 +1,5 @@
 ---
 layout: sub-brand
-sub-brand: corporate
+brand: "corporate"
+link: "/corporate"
 ---

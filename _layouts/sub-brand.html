@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign brand = site.brands | where: "title", page.brand | first %}
+
 <div class="container">
   <div class="wrapper">
     <div class="flex flex-column flex-row-ns flex-wrap mw-100 w-100 black-80">
@@ -17,7 +19,7 @@ layout: default
             {% for item in site.posts %}
               {% if limit == 0 %}
                 {% break %}
-              {% elsif item.categories contains page["sub-brand"] %}
+              {% elsif item.brand == page.brand %}
               {% assign limit=limit | minus:1 %}
               <article class="col-xs-12 col-md-6 col-lg-12 news-feed-item">
                 <div class="news-feed-line">
@@ -28,7 +30,7 @@ layout: default
               {% endif %}
             {% endfor %}
             <div class="col-xs-12">
-              <a class="pb1 box f6 f5-ns fw4 black-80 exo ttu tracked-mega link" href="/news">More news</a>
+              <a class="pb1 box f6 f5-ns fw4 black-80 exo ttu tracked-mega link" href="{{ brand.link }}/news">More news</a>
             </div>
           </section>
         </div>

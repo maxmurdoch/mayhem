@@ -1,4 +1,5 @@
 ---
 layout: sub-brand
-sub-brand: live
+brand: "sport"
+link: "/live"
 ---
