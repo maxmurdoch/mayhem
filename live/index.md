@@ -1,5 +1,6 @@
 ---
 layout: sub-brand
-brand: "live"
+brand: live
 link: "/live"
 ---
+

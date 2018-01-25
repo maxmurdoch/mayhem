@@ -1,8 +1,10 @@
 ---
 title: Mayhem
 timezone: UTC
-permalink: /:year/:month/:day/:title/
 collections:
+  brands:
+    title: Brands
+    output: false
   posts:
     title: Posts
     output: true
@@ -12,9 +14,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  brands:
-    title: Brands
-    output: false
 defaults:
 - scope:
     path: ''
@@ -30,8 +29,8 @@ defaults:
   values:
     title: ''
     logo: ''
-    clients: 
-      -
+    clients:
+    - 
     about: ''
     link: ''
 - scope:
@@ -50,6 +49,7 @@ defaults:
       title: ''
       subtitle: ''
       is-dark: false
+permalink: "/:year/:month/:day/:title/"
 exclude:
 - Gemfile
 - Gemfile.lock
