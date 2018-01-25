@@ -6,7 +6,7 @@ tags:
 - gentlemans journal
 thumbnail-image: "/uploads/Screen%20Shot%202017-06-29%20at%2020.12.03.jpg"
 header-image: "/uploads/Screen%20Shot%202017-06-29%20at%2020.12.03.jpg"
-bread crumb: David Gandy Directing Debut
+breadcrumb: David Gandy Directing Debut
 header-caption: David Gandy Directing Debut
 ---
 

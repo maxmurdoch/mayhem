@@ -17,7 +17,7 @@ video:
   vimeoid: 207655666
   image: "/uploads/MW.jpg"
   subtitle: PLAY
-bread crumb: Before The Bell
+breadcrumb: Before The Bell
 header-caption: Before The Bell
 ---
 

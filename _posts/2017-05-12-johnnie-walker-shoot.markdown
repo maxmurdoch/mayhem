@@ -3,11 +3,12 @@ title: Johnnie Walker Shoot
 date: 2017-05-12 20:01:00 Z
 categories:
 - johnnie walker
+- branded-content
 tags:
 - johnnie walker
 thumbnail-image: "/uploads/jw-1d.jpg"
 header-image: "/uploads/jw-1d.jpg"
-bread crumb: Johnnie Walker Shoot
+breadcrumb: Johnnie Walker Shoot
 header-caption: Johnnie Walker Shoot
 ---
 
