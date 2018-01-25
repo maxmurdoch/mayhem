@@ -1,8 +1,9 @@
 ---
-title: "sport"
+title: sport
 logo: "/uploads/MayhemSport.png"
 link: "/sport"
-about: 'Sport sport sporf'
+about: Sport sport sporf
 clients:
-  - Bayern Munch
+- Bayern Munch
 ---
+

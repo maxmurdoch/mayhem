@@ -1,5 +1,6 @@
 ---
 layout: sub-brand
-brand: "branded-content"
+brand: branded-content
 link: "/branded-content/"
 ---
+
