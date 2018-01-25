@@ -26,7 +26,7 @@ defaults:
     subtitle: ''
 - scope:
     path: ''
-    type: brand
+    type: brands
   values:
     title: ''
     logo: ''
