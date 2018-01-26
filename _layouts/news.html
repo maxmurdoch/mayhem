@@ -11,7 +11,7 @@ layout: default
 
       <div class="row">
         <div class="col-xs-12 flex">
-          <a class="breadcrumb pointer exo f6 f5-ns fw4 ttu tracked align-center pb3 black-40" href="{{ brand.link | default: / }}">Home</a> &middot; <a class="breadcrumb pointer exo f6 f5-ns fw4 ttu tracked align-center pb3" href="{{ brand.link }}/news">News</a> &middot; <h2 class="breadcrumb__leaf exo f6 f5-ns fw4 ttu tracked align-center pb3">{{ page.breadcrumb | default: page.title }}</h2>
+          <a class="breadcrumb pointer exo f6 f5-ns fw4 ttu tracked align-center pb3 black-40" href={{ brand.link | default: "/" }}>Home</a> &middot; <a class="breadcrumb pointer exo f6 f5-ns fw4 ttu tracked align-center pb3" href="{{ brand.link }}/news">News</a> &middot; <h2 class="breadcrumb__leaf exo f6 f5-ns fw4 ttu tracked align-center pb3">{{ page.breadcrumb | default: page.title }}</h2>
         </div>
         <header class="col-xs-12 box">
           {% if page.video.is-visible %}

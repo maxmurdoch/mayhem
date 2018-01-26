@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+  {% include head.html %}
+  <body class="min-vh-100 mw-100 w-100 flex flex-column tk-nimbus-sans black-80 border-box">
+    {% include slideout.html %}
+    <div id="panel" class="panel bg-white">
+      <main>
+        {{ content }}
+      </main>
+    </div>
+  </body>
+</html>
+
