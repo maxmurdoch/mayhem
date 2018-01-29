@@ -5,6 +5,6 @@ brand: sport
 order: 3
 vimeoid: 245902023
 image: "/uploads/IMG_5426d.jpg"
-subtitle: Nissan x Joe.co.uk
+subtitle: Nissan & Joe.co.uk
 ---
 
