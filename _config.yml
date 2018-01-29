@@ -8,8 +8,8 @@ collections:
   posts:
     title: Posts
     output: true
-  showcase:
-    title: Showcase
+  showcases:
+    title: Showcases
     output: false
   uploads:
     title: Uploads
@@ -17,7 +17,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: showcase
+    type: showcases
   values:
     brand: ''
     order: ''

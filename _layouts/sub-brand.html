@@ -48,7 +48,7 @@ layout: default
               <div class="row">
                 <ul class="list flex flex-wrap w-100 pl0 mv0">
                   {% assign filteredShowcases = site.showcase | where: 'brand', brand.title %}
-                  {% assign sortedShowcase = filteredShowcases | sort: 'order' %} {% for item in sortedShowcase %}
+                  {% for item in filteredShowcase %}
                   <li class="box ma0 showcase-list-item">
                     {% include video.html video=item %}
                   </li>
