@@ -3,7 +3,6 @@ title: branded-content
 logo: "/uploads/MayhemBrandedContent%20ii.png"
 clients:
 - 20th Century Fox
-- Alpha LSG
 - Breitling
 - Clinique
 - Cambridge University
