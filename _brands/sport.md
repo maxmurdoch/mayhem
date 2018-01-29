@@ -16,7 +16,10 @@ clients:
 - Qantas
 - Virgin Active
 - Vintage Sport & Leisure
-about: Sport sport sporf
+about: Filmmaking is a sport and we’re title contenders. Led by a creative team of
+  sporting players and fans alike, Mayhem Sport is the home of unforgettable sporting
+  production. Teaming up alongside some of the worlds' leading sports stars and brands,
+  we pride ourselves on creating and delivering content that forever STANDS OUT.
 link: "/sport"
 ---
 
