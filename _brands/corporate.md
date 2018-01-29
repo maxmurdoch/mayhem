@@ -8,6 +8,7 @@ clients:
 - First Light PR
 - Phoenix Group
 - Houzen
+- Innocent Smoothies
 - Grundig
 - More United
 - National Film & Television School
