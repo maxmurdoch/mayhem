@@ -47,11 +47,18 @@ layout: default
             <div class="col-xs-12">
               <div class="row">
                 <ul class="list flex flex-wrap w-100 pl0 mv0">
-                  {% assign filteredShowcases = site.showcase | where: 'brand', brand.title %}
-                  {% for item in filteredShowcase %}
-                  <li class="box ma0 showcase-list-item">
-                    {% include video.html video=item %}
-                  </li>
+                  {% for pageShowcase in page.showcase %}
+
+                    {% for siteShowcase in site.showcases %}
+
+                    {% if siteShowcase.title == pageShowcase %}
+                      <li class="box ma0 showcase-list-item">
+                        {% include video.html video=siteShowcase %}
+                      </li>
+                    {% endif %}
+
+                    {% endfor %}
+
                   {% endfor %}
                 </ul>
               </div>

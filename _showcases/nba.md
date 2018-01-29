@@ -5,4 +5,3 @@ vimeoid: 164576823
 image: "/uploads/nba%20smaller.jpg"
 subtitle: NBA
 ---
-
