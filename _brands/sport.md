@@ -15,6 +15,7 @@ clients:
 - The Rugby Pod
 - Qantas
 - Virgin Active
+- Vintage Sport & Leisure
 about: Sport sport sporf
 link: "/sport"
 ---
