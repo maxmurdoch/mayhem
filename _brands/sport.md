@@ -9,6 +9,7 @@ clients:
 - EA Sports
 - Joe.co.uk
 - Lets Do This
+- LTA
 - NBA
 - Olympus
 - The Rugby Pod
