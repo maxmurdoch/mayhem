@@ -1,9 +1,19 @@
 ---
 title: sport
 logo: "/uploads/MayhemSport.png"
-link: "/sport"
-about: Sport sport sporf
 clients:
-- Bayern Munch
+- 2K Games
+- Box Nation
+- BT Sport
+- Deliveroo
+- EA Sports
+- Joe.co.uk
+- Lets Do This
+- NBA
+- Olympus
+- Qantas
+- Virgin Active
+about: Sport sport sporf
+link: "/sport"
 ---
 
