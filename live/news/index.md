@@ -1,5 +1,5 @@
 ---
-layout: news-feed
+title: Live news
 brand: live
+layout: news-feed
 ---
-

@@ -6,4 +6,3 @@ showcase:
 - The British & Irish Lions
 layout: sub-brand
 ---
-
