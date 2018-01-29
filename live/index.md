@@ -1,9 +1,9 @@
 ---
 title: Live
-layout: sub-brand
 brand: live
 showcase:
-- 
+- Carboot Shootout
 link: "/live"
+layout: sub-brand
 ---
 
