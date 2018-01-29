@@ -19,7 +19,6 @@ defaults:
     path: ''
     type: showcases
   values:
-    brand: ''
     order: ''
     vimeoid: ''
     image: ''
