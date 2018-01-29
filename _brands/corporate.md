@@ -1,6 +1,6 @@
 ---
 title: corporate
-logo: "/uploads/MayhemCorporate.png"
+logo: "/uploads/Mayhem%20Corporate%20(black%20text).png"
 clients:
 - 20th Century Fox
 - Alpha LSG
