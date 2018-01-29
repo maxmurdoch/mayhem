@@ -1,6 +1,6 @@
 ---
 title: live
-logo: "/uploads/MayhemLive.png"
+logo: "/uploads/Mayhem%20Live%20(black%20text).png"
 clients:
 - 2K Games
 - Bear Social
