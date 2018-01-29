@@ -1,5 +1,5 @@
 ---
-title: Branded content
+title: Branded
 brand: branded-content
 showcase:
 - The British & Irish Lions
