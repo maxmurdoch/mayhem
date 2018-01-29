@@ -23,6 +23,7 @@ clients:
 - Nissan
 - Olympus
 - Reece's Pieces
+- Strawberries & Creem Festival
 - Time Out London
 - Turnbull & Asser
 - V&A Museum
