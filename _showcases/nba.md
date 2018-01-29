@@ -6,4 +6,3 @@ image: "/uploads/nba%20smaller.jpg"
 subtitle: NBA
 brand: sport
 ---
-
