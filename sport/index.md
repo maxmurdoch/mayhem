@@ -2,7 +2,8 @@
 title: Sport
 brand: sport
 link: "/live"
-first_showcase: 
+showcase:
+- 
 layout: sub-brand
 ---
 
