@@ -17,6 +17,7 @@ clients:
 - Innocent Smoothies
 - Jigsaw
 - Johnnie Walker
+- Lulu Kachoo
 - Merceica
 - Nissan
 - Olympus
