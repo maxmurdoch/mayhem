@@ -17,6 +17,7 @@ clients:
 - Innocent Smoothies
 - Jigsaw
 - Johnnie Walker
+- Kabuto Noodles
 - Lulu Kachoo
 - Merceica
 - Nissan
@@ -26,7 +27,6 @@ clients:
 - Turnbull & Asser
 - V&A Museum
 - Winsor & Newton
-- 
 link: "/branded-content"
 ---
 
