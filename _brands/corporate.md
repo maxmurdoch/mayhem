@@ -7,14 +7,16 @@ clients:
 - AMD
 - Beko
 - First Light PR
-- Phoenix Group
+- Grundig
 - Houzen
 - Innocent Smoothies
-- Grundig
+- Kids Gallery HK
 - More United
 - MST
 - National Film & Television School
 - Philip Morris
+- Phoenix Group
+- Seedrs
 - University of York
 about: Corporate shit mate
 link: "/corporate"
