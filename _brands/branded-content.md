@@ -3,12 +3,12 @@ title: branded-content
 logo: "/uploads/MayhemBrandedContent%20ii.png"
 clients:
 - 20th Century Fox
-- Deliveroo
 - Alpha LSG
 - Breitling
 - Clinique
 - Cambridge University
 - Condé Nast
+- Deliveroo
 - Edelman
 - Fuse International
 - The Gentleman's Journal
