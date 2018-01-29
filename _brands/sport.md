@@ -1,6 +1,6 @@
 ---
 title: sport
-logo: "/uploads/Mayhem%20Sport%20(black%20text).png"
+logo: "/uploads/Mayhem%20Sport%20squared.png"
 clients:
 - 2K Games
 - Box Nation
