@@ -1,6 +1,6 @@
 ---
 title: Mayhem
-logo: "/uploads/MAYHEM.svg"
+logo: "/uploads/MAYHEM%202.svg"
 definitions:
 - An awesome creative production company
 - Creators of content your friends want to watch
