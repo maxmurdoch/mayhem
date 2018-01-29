@@ -1,9 +1,11 @@
 ---
 title: Corporate
-layout: sub-brand
 brand: corporate
 showcase:
+- Tea Party
+- People Not Parties
 - 
 link: "/corporate"
+layout: sub-brand
 ---
 
