@@ -1,6 +1,6 @@
 ---
-title: branded-content
-logo: "/uploads/MayhemBrandedContent%20ii.png"
+title: branded
+logo: "/uploads/Mayhem%20Branded%20(black%20text).png"
 clients:
 - 20th Century Fox
 - Breitling
