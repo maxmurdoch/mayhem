@@ -3,13 +3,14 @@ title: Sport
 brand: sport
 link: "/live"
 showcase:
+- Spice Up Your Gym Life
 - The British & Irish Lions
-- Lets do this
-- "#myhome"
 - This is why we play
-- Nothing in your way
-- Edge Of Glory
+- Lets do this
 - What a delivery
+- Edge Of Glory
+- Nothing in your way
+- "#myhome"
 layout: sub-brand
 ---
 
