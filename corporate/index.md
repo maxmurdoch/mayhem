@@ -6,6 +6,7 @@ showcase:
 - People Not Parties
 - Houzen
 - We Are York
+- Innocent Smoothies Recycling
 link: "/corporate"
 layout: sub-brand
 ---
