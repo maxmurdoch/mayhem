@@ -10,6 +10,7 @@ showcase:
 - Cotman brush pen set
 - Centrepoint
 - David Gandy's 24 Hour in Monaco
+- Olympus TG-4
 link: "/branded/"
 layout: sub-brand
 ---
