@@ -9,6 +9,7 @@ showcase:
 - Carboot Shootout
 - Cotman brush pen set
 - Centrepoint
+- David Gandy's 24 Hour in Monaco
 link: "/branded/"
 layout: sub-brand
 ---
