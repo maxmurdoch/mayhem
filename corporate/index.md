@@ -7,6 +7,7 @@ showcase:
 - Houzen
 - We Are York
 - Innocent Smoothies Recycling
+- Grundig
 link: "/corporate"
 layout: sub-brand
 ---
