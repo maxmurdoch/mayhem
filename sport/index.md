@@ -11,6 +11,7 @@ showcase:
 - Edge Of Glory
 - Nothing in your way
 - "#myhome"
+- Guinness World Records
 layout: sub-brand
 ---
 
