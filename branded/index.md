@@ -4,6 +4,7 @@ brand: branded-content
 showcase:
 - Teach a man to fish
 - The British & Irish Lions
+- Gentleman's Journal
 - What a delivery
 - New Wave Jeans
 - Carboot Shootout
