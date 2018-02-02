@@ -4,14 +4,13 @@ brand: corporate
 showcase:
 - Tea Party
 - People Not Parties
-- Houzen
+- Creative Business for Entrepreneurs and Executives
 - We Are York
 - Innocent Smoothies Recycling
 - Hippodrome Casino
+- Mills International School
 - Grundig
-- Mills International School
-- Creative Business for Entrepreneurs and Executives
-- Mills International School
+- Houzen
 link: "/corporate"
 layout: sub-brand
 ---
