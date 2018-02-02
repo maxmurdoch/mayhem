@@ -8,6 +8,8 @@ showcase:
 - We Are York
 - Innocent Smoothies Recycling
 - Grundig
+- Mills International School
+- Creative Business for Entrepreneurs and Executives
 link: "/corporate"
 layout: sub-brand
 ---
