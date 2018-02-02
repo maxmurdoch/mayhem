@@ -1,19 +1,19 @@
 ---
 title: Mayhem
-logo: "/uploads/MAYHEM%202.svg"
-definitions:
-- An awesome creative production company
-- Creators of content your friends want to watch
-example: e.g. “as a self-respecting marketing exec, I always work with Mayhem”
-links:
-- link: "/branded"
-  text: Branded
-- link: "/live"
-  text: Live
-- link: "/sport"
-  text: Sport
-- link: "/corporate"
-  text: Corporate
+logo: "/uploads/mayhem-logo.png"
+background-image: "/uploads/David_i.jpg"
 layout: blank
+nav:
+  branded:
+    text: 'Branded'
+    link: '/branded'
+  live:
+    text: 'Live'
+    link: '/live'
+  sport:
+    text: 'Sport'
+    link: '/sport'
+  corporate:
+    text: 'Corporate'
+    link: '/corporate'
 ---
-

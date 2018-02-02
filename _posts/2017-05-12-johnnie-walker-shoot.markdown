@@ -5,7 +5,7 @@ categories:
 - johnnie-walker
 tags:
 - johnnie walker
-brand: branded-content
+brand: branded
 thumbnail-image: "/uploads/jw-1d.jpg"
 header-image: "/uploads/jw-1d.jpg"
 breadcrumb: Johnnie Walker Shoot

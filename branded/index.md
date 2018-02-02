@@ -1,6 +1,6 @@
 ---
 title: Branded
-brand: branded-content
+brand: branded
 showcase:
 - Teach a man to fish
 - The British & Irish Lions
