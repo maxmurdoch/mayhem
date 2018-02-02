@@ -8,6 +8,7 @@ showcase:
 - New Wave Jeans
 - Carboot Shootout
 - Cotman brush pen set
+- Centrepoint
 link: "/branded/"
 layout: sub-brand
 ---
