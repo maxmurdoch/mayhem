@@ -6,10 +6,11 @@
       <div class="row" data-tab-group>
         <div class="col-xs-12 col-md-3 col-lg-3">
           <div class="desktop-header-tabs flex flex-auto flex-column justify-between">
-            <nav>
+            <nav class="flex flex-column">
               {% for item in site.navigation %}
-                <p class="nav-item black-80 ma0 w-third w-100-ns link pointer lh-title f5 fw4 exo ttu tracked" data-tab-for="{{item.title}}">{{ item.title | capitalize }}</p>
+                <p class="nav-item black-80 ma0 w-third w-100-ns link pointer lh-title f5 fw4 ttu tracked" data-tab-for="{{item.title}}">{{ item.title | capitalize }}</p>
               {% endfor %}
+              <a class="nav-item o-60 black-80 ma0 w-third w-100-ns link pointer lh-title f5 fw4 ttu tracked" href="/">Home</a>
             </nav>
 
             <div class="flex">
