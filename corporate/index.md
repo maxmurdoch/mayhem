@@ -11,7 +11,6 @@ showcase:
 - Grundig
 - Mills International School
 - Creative Business for Entrepreneurs and Executives
-- Mills International School
 link: "/corporate"
 layout: sub-brand
 ---
