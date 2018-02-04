@@ -4,8 +4,8 @@ brand: live
 showcase:
 - Live showreel
 - NBA All Star Europe LIVE
-- Strawberries & Creem Festival
 - Guinness World Records
+- Strawberries & Creem Festival
 link: "/live"
 layout: sub-brand
 ---
