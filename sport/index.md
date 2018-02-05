@@ -9,8 +9,8 @@ showcase:
 - Edge Of Glory
 - Carboot Shootout
 - This is why we play
-- LTA - Cambridge Tennis
 - What a delivery
+- LTA - Cambridge Tennis
 - Nothing in your way
 - "#myhome"
 - Guinness World Records
