@@ -6,7 +6,6 @@ showcase:
 - Spice Up Your Gym Life
 - The British & Irish Lions
 - This is why we play
-- Lets do this
 - What a delivery
 - Edge Of Glory
 - Nothing in your way
@@ -14,6 +13,7 @@ showcase:
 - Guinness World Records
 - Carboot Shootout
 - LTA - Cambridge Tennis
+- Let's do this
 layout: sub-brand
 ---
 
