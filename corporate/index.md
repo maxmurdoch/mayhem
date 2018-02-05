@@ -8,7 +8,7 @@ showcase:
 - We Are York
 - London Food Month
 - Hippodrome Casino
-- Mills International School
+- One Step Ahead
 - Recycling
 - Invest with us
 link: "/corporate"
