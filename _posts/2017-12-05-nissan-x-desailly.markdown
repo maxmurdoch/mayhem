@@ -2,7 +2,7 @@
 title: Nissan x Desailly
 date: 2017-12-05 11:48:00 Z
 brand: branded
-thumbnail-image: "/uploads/IMG_5426d.jpg"
+thumbnail-image: "/uploads/NISAAN%20THUMBNAILk.jpg"
 header-image: "/uploads/NISAAN%20THUMBNAILk.jpg"
 ---
 
