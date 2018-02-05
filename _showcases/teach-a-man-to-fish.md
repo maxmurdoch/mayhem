@@ -4,7 +4,7 @@ categories:
 - commercial
 order: 1
 vimeoid: 185139774
-image: "/uploads/Jigsaw_TAMTF_V1-7733.jpg"
+image: "/uploads/British%20arrows%20Jigsaw.jpg"
 subtitle: jigsaw menswear
 ---
 
