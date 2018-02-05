@@ -10,10 +10,9 @@ showcase:
 - Let's do this
 - Carboot Shootout
 - "#myhome"
-- This is why we play
 - What a delivery
 - LTA - Cambridge Tennis
-- Guinness World Records
+- This is why we play
 layout: sub-brand
 ---
 
