@@ -10,6 +10,7 @@ showcase:
 - New Wave Jeans
 - What a delivery
 - Cotman brush pen set
+- Happy new year
 - Centrepoint
 - David Gandy's 24 Hour in Monaco
 - Olympus TG-4
