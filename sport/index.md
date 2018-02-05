@@ -13,8 +13,6 @@ showcase:
 - What a delivery
 - LTA - Cambridge Tennis
 - This is why we play
-- Guinness World Records
-- 
 layout: sub-brand
 ---
 
