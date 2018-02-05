@@ -6,10 +6,10 @@ showcase:
 - People Not Parties
 - Creative Business for Entrepreneurs and Executives
 - We Are York
-- Innocent Smoothies Recycling
+- Grundig
 - Hippodrome Casino
 - Mills International School
-- Grundig
+- Innocent Smoothies Recycling
 - Houzen
 link: "/corporate"
 layout: sub-brand
