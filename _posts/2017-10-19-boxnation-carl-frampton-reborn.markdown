@@ -1,6 +1,7 @@
 ---
 title: Carl Frampton - Reborn
 date: 2017-10-19 22:21:00 Z
+brand: sport
 thumbnail-image: "/uploads/Screen%20Shot%202017-10-26%20at%2023.26.30.jpg"
 header-image: "/uploads/Screen%20Shot%202017-10-26%20at%2023.26.30.jpg"
 video:
