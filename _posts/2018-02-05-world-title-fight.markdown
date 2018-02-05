@@ -2,7 +2,7 @@
 title: World Title Fight
 date: 2018-02-05 14:38:00 Z
 brand: sport
-thumbnail-image: "/uploads/MAN%20LIKE%20SELBY.jpg"
+thumbnail-image: "/uploads/SELBY%204.jpg"
 header-image: "/uploads/BOX%202.jpg"
 ---
 
