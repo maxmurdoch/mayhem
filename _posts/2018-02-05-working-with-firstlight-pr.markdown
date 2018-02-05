@@ -6,4 +6,4 @@ thumbnail-image: "/uploads/firslight.png"
 header-image: "/uploads/About%20us%202.png"
 ---
 
-blah blah blah
+PR Agency, Firstlight, asked us to produce an internal video for one of their major clients, Vifor Pharma UK. 
