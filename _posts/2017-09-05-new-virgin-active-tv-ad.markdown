@@ -1,6 +1,7 @@
 ---
 title: New Virgin Active TVC
 date: 2017-09-05 11:29:00 Z
+brand: sport
 thumbnail-image: "/uploads/Screen%20Shot%202017-10-13%20at%2016.08.10fff.jpg"
 header-image: "/uploads/Screen%20Shot%202017-10-13%20at%2016.08.10fff.jpg"
 video:
