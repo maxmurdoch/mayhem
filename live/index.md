@@ -2,7 +2,7 @@
 title: Live
 brand: live
 showcase:
-- Live Showreel
+- Mayhem Live
 - NBA All Star Europe LIVE
 - Guinness World Records
 - Strawberries & Creem Festival
