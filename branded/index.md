@@ -10,10 +10,10 @@ showcase:
 - Happy new year
 - What a delivery
 - Cotman brush pen set
-- Olympus TG-4
+- What's next?
+- 24 Hours in Monaco
 - New Wave Jeans
 - Centrepoint
-- 24 Hours in Monaco
 link: "/branded/"
 layout: sub-brand
 ---
