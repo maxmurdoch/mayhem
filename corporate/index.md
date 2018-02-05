@@ -2,15 +2,15 @@
 title: Corporate
 brand: corporate
 showcase:
-- Tea Party
-- People Not Parties
 - Creative Business for Entrepreneurs and Executives
+- People Not Parties
+- Tea Party
 - We Are York
-- Grundig
+- London Food Month
 - Hippodrome Casino
 - Mills International School
-- Innocent Smoothies Recycling
-- Houzen
+- Recycling
+- Invest with us
 link: "/corporate"
 layout: sub-brand
 ---
