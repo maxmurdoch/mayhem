@@ -2,7 +2,7 @@
 title: Throwback Thursday
 date: 2018-01-25 14:33:00 Z
 brand: branded
-thumbnail-image: "/uploads/dsdf.jpg"
+thumbnail-image: "/uploads/CHOP.jpg"
 video:
   is-visible: true
   vimeoid: 252709885
