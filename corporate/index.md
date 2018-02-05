@@ -2,8 +2,8 @@
 title: Corporate
 brand: corporate
 showcase:
-- Creative Business for Entrepreneurs and Executives
 - People Not Parties
+- Creative Business for Entrepreneurs and Executives
 - Tea Party
 - We Are York
 - London Food Month
