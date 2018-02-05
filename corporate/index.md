@@ -10,7 +10,7 @@ showcase:
 - Hippodrome Casino
 - Mills International School
 - Innocent Smoothies Recycling
-- Houzen
+- Invest with us
 link: "/corporate"
 layout: sub-brand
 ---
