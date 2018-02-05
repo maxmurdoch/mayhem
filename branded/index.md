@@ -7,7 +7,7 @@ showcase:
 - Gentleman's Journal
 - Logo launch
 - Carboot Shootout
-- Happy new year
+- Father's Day
 - What a delivery
 - Cotman brush pen set
 - What's next?
