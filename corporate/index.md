@@ -7,7 +7,7 @@ showcase:
 - Tea Party
 - We Are York
 - London Food Month
-- Hippodrome Casino
+- Heart of London
 - One Step Ahead
 - Recycling
 - Invest with us
