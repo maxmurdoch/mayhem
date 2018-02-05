@@ -6,6 +6,7 @@ showcase:
 - NBA All Star Europe LIVE
 - Guinness World Records
 - Strawberries & Creem Festival
+- Live Acoustic Set
 link: "/live"
 layout: sub-brand
 ---
