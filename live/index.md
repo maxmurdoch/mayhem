@@ -7,6 +7,7 @@ showcase:
 - Guinness World Records
 - Strawberries & Creem Festival
 - Live Acoustic Set
+- GREAT BRITISH BUTLER
 link: "/live"
 layout: sub-brand
 ---
