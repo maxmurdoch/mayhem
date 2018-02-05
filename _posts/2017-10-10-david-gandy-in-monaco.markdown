@@ -11,6 +11,7 @@ tags:
 - monaco
 - yacht
 - film
+brand: branded
 thumbnail-image: "/uploads/Screen%20Shot%202017-10-03%20at%2011.56.06.png"
 header-image: "/uploads/Screen%20Shot%202017-10-03%20at%2011.56.33.png"
 header-captions: David Gandy in Monaco
