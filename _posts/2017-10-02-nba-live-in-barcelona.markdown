@@ -1,6 +1,7 @@
 ---
 title: NBA Live in Barcelona
 date: 2017-10-02 13:22:00 Z
+brand: live
 thumbnail-image: "/uploads/sdf.jpg"
 header-image: "/uploads/hj.jpg"
 header-caption: NBA Champion & All Star Draymond Green plays NBA2K Live on Twitch
