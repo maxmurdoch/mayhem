@@ -1,6 +1,7 @@
 ---
 title: Throwback Thursday
 date: 2018-01-25 14:33:00 Z
+brand: branded
 thumbnail-image: "/uploads/dsdf.jpg"
 video:
   is-visible: true
