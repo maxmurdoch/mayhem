@@ -3,7 +3,7 @@ title: Live
 brand: live
 showcase:
 - Mayhem Live
-- NBA All Star Europe LIVE
+- NBA 2K Europe LIVE
 - Guinness World Records
 - Strawberries & Creem Festival
 - Live Acoustic Set
