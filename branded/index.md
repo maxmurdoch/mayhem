@@ -7,13 +7,13 @@ showcase:
 - Gentleman's Journal
 - Logo launch
 - Carboot Shootout
-- New Wave Jeans
+- Happy new year
 - What a delivery
 - Cotman brush pen set
-- Happy new year
+- New Wave Jeans
 - Centrepoint
-- David Gandy's 24 Hour in Monaco
 - Olympus TG-4
+- 24 Hours in Monaco
 link: "/branded/"
 layout: sub-brand
 ---
