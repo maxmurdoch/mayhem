@@ -2,7 +2,7 @@
 title: People Not Parties
 order: 3
 vimeoid: 219205932
-image: "/uploads/asdsa.jpg"
+image: "/uploads/peoplenotparties.jpg"
 subtitle: More United
 ---
 
