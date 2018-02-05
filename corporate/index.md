@@ -2,9 +2,9 @@
 title: Corporate
 brand: corporate
 showcase:
-- Tea Party
-- People Not Parties
 - Creative Business for Entrepreneurs and Executives
+- People Not Parties
+- Tea Party
 - We Are York
 - Grundig
 - Hippodrome Casino
