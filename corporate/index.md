@@ -9,7 +9,7 @@ showcase:
 - London Food Month
 - Hippodrome Casino
 - Mills International School
-- Innocent Smoothies Recycling
+- Recycling
 - Invest with us
 link: "/corporate"
 layout: sub-brand
