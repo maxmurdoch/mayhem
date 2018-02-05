@@ -29,7 +29,7 @@ clients:
 - Winsor & Newton
 about: The key to content is impact and we’re the locksmiths. We create engaging and
   original concepts tailored to your brand values. Mayhem Branded isn’t about traditional
-  advertising. It's about delivering content in a dynamic and fun way. Talking points
+  advertising, it's about delivering content in a dynamic and fun way. Talking points
   in seconds!
 link: "/branded"
 ---
