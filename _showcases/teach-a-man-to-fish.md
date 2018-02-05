@@ -4,7 +4,7 @@ categories:
 - commercial
 order: 1
 vimeoid: 185139774
-image: "/uploads/JIGSAW%20THE%20REAL.jpg"
+image: "/uploads/ON%20A%20BOAT.jpg"
 subtitle: jigsaw menswear
 ---
 
