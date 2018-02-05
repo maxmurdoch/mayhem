@@ -11,9 +11,9 @@ showcase:
 - What a delivery
 - Cotman brush pen set
 - What's next?
+- 24 Hours in Monaco
 - New Wave Jeans
 - Centrepoint
-- 24 Hours in Monaco
 link: "/branded/"
 layout: sub-brand
 ---
