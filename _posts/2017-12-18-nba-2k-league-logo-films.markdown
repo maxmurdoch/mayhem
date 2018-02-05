@@ -1,6 +1,7 @@
 ---
 title: NBA 2K League Logo Films
 date: 2017-12-18 13:38:00 Z
+brand: branded
 thumbnail-image: "/uploads/Screen%20Shot%202017-12-18%20at%2013.50.19.jpg"
 header-image: "/uploads/NBA%20POST%202d-730953.jpg"
 ---

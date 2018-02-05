@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head.html %}
+  <body class="tk-nimbus-sans black-80 border-box">
+    <main class="flex flex-column justify-between items-center" style="height: 100vh;">
+      <img src="{{ page.background-image  }}" 
+        style="max-height: 80vh;" />
+      <nav style="height: 20vh; flex-grow: 1;" class="pv5 ph0 ma0 list flex flex-column flex-row-ns w-100 justify-between items-center lh-copy">
+        <a class="order-1 order-0-ns tc w-50 w-20-ns ttu fw3" href="{{ page.nav.branded.link }}">
+          {{ page.nav.branded.text }}
+        </a>
+        <a class="order-2 order-1-ns tc w-50 w-20-ns ttu fw3" href="{{ page.nav.live.link }}">
+          {{ page.nav.live.text }}
+        </a>
+        <img class="order-0 order-2-ns w-25 w-10-ns" src="{{ page.logo }}" />
+        <a class="order-3 tc w-50 w-20-ns ttu fw3" href="{{ page.nav.sport.link }}">
+          {{ page.nav.sport.text }}
+        </a>
+        <a class="order-4 tc w-50 w-20-ns ttu fw3" href="{{ page.nav.corporate.link }}">
+          {{ page.nav.corporate.text }}
+        </a>
+      </nav>
+    </main>
+  </body>
+</html>
+

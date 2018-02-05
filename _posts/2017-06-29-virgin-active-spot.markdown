@@ -10,6 +10,7 @@ video:
   subtitle: PLAY
 breadcrumb: New Virgin Active Spot!
 header-caption: New Virgin Active Spot!
+brand: sport
 ---
 
 Check out the recent online spot we produced for Virgin Active directed by Joshua Thornton!

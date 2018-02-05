@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+{% assign brand = site.brands | where: "title", page.brand | first %}
+
+<div class="container">
+  <div class="wrapper">
+    <div class="flex flex-column flex-row-ns flex-wrap mw-100 w-100 black-80">
+
+      <div class="row">
+        <div class="col-xs-12 col-lg-3 order-1 order-0-l">
+          <div class="box">
+            <h2 class="ma0 f5 f4-ns fw3 pt4 pt0-l black-80 nimbus-sans ttu tracked">News feed</h2>
+          </div>
+
+          <section class="list news-feed row flex flex-wrap mv0 pl0">
+            {% assign limit=site.news-limit %}
+            {% for item in site.posts %}
+              {% if limit == 0 %}
+                {% break %}
+              {% elsif item.brand == page.brand %}
+              {% assign limit=limit | minus:1 %}
+              <article class="col-xs-12 col-md-6 col-lg-12 news-feed-item">
+                <div class="news-feed-line">
+                  {% if item.long == true %} {% include news-feed-long.html post=item %} {% else %} {% include news-feed-short.html post=item
+                  %} {% endif %}
+                </div>
+              </article>
+              {% endif %}
+            {% endfor %}
+            <div class="col-xs-12">
+              <a class="pb1 box f6 f5-ns fw3 black-80 nimbus-sans ttu tracked-mega link" href="{{ brand.link }}/news">More news</a>
+            </div>
+          </section>
+        </div>
+
+        <section class="col-xs-12 col-lg-9 order-0 order-1-l">
+          <div class="row">
+
+            <div class="col-xs-12">
+              <div class="box">
+                <h2 class="ma0 f5 f4-ns pt3 pt0-l fw3 black-80 nimbus-sans ttu tracked">Showcase</h2>
+              </div>
+            </div>
+
+            <div class="col-xs-12">
+              <div class="row">
+                <ul class="list flex flex-wrap w-100 pl0 mv0">
+                  {% for pageShowcase in page.showcase %}
+
+                    {% for siteShowcase in site.showcases %}
+
+                    {% if siteShowcase.title == pageShowcase %}
+                      <li class="box ma0 showcase-list-item">
+                        {% include video.html video=siteShowcase %}
+                      </li>
+                    {% endif %}
+
+                    {% endfor %}
+
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+
+    </div>
+  </div>
+</div>

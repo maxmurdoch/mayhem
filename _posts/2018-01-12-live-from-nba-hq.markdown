@@ -1,6 +1,7 @@
 ---
 title: Live from NBA HQ!
 date: 2018-01-12 17:10:00 Z
+brand: live
 thumbnail-image: "/uploads/STUDIO-2web.jpg"
 header-image: "/uploads/STUDIO-3web.jpg"
 ---

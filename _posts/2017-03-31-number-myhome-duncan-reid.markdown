@@ -16,7 +16,7 @@ video:
   image: "/uploads/DR-2.jpg"
   title: PLAY
   is-dark: false
-bread crumb: "#myhome"
+breadcrumb: "#myhome"
 header-caption: "#myhome - Duncan Reid"
 ---
 

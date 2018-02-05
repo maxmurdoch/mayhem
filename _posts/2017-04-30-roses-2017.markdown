@@ -13,7 +13,7 @@ video:
   is-visible: true
   vimeoid: 213930873
   image: "/uploads/Fire_2.9.3fds.jpg"
-bread crumb: Roses 2017 Released!
+breadcrumb: Roses 2017 Released!
 header-caption: Inferno - Roses 2017
 ---
 

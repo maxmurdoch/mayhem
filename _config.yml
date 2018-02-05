@@ -2,11 +2,14 @@
 title: Mayhem
 timezone: UTC
 collections:
+  brands:
+    title: Brands
+    output: false
   posts:
     title: Posts
     output: true
-  showcase:
-    title: Showcase
+  showcases:
+    title: Showcases
     output: false
   uploads:
     title: Uploads
@@ -14,7 +17,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: showcase
+    type: showcases
   values:
     order: ''
     vimeoid: ''
@@ -22,9 +25,20 @@ defaults:
     subtitle: ''
 - scope:
     path: ''
+    type: brands
+  values:
+    title: ''
+    logo: ''
+    clients:
+    - 
+    about: ''
+    link: ''
+- scope:
+    path: ''
     type: posts
   values:
     layout: news
+    brand: ''
     author: ''
     thumbnail-image: ''
     header-image: ''
@@ -36,6 +50,7 @@ defaults:
       title: ''
       subtitle: ''
       is-dark: false
+permalink: "/:year/:month/:day/:title/"
 exclude:
 - Gemfile
 - Gemfile.lock
@@ -112,5 +127,3 @@ social-media:
   url: https://www.instagram.com/mayhem_creative/
 - type: vimeo
   url: https://vimeo.com/mayhemuk
-- type: 
-  url: 

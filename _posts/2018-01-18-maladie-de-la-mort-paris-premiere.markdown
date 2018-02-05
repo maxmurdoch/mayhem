@@ -1,6 +1,7 @@
 ---
 title: Maladie De La Mort - Paris Premiere
 date: 2018-01-18 11:23:00 Z
+brand: live
 thumbnail-image: "/uploads/dddd.jpg"
 video:
   is-visible: true

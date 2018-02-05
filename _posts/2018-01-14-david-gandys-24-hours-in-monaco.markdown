@@ -1,6 +1,7 @@
 ---
 title: David Gandy's '24 Hours In Monaco'
 date: 2018-01-14 12:25:00 Z
+brand: branded
 thumbnail-image: "/uploads/Screen%20Shot%202018-01-18%20at%2012.29.28fdsd.jpg"
 video:
   is-visible: true

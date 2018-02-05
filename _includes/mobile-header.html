@@ -1,3 +1,5 @@
+{% assign brand = site.brands | where: "title", page.brand | first %}
+
 <header class="mobile-header">
   <div class="container">
     <div class="wrapper">
@@ -16,7 +18,7 @@
         <div class="col-xs-9">
           <div class="pv3">
             <a class="link flex items-center justify-end" href="/">
-              <img class="logo" src="/uploads/logo-old.svg" />
+              <img class="logo" src={{ brand.logo | default: "/uploads/logo-old.svg" }} />
             </a>
           </div>
         </div>
