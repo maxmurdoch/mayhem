@@ -6,7 +6,7 @@ showcase:
 - People Not Parties
 - Tea Party
 - We Are York
-- Grundig
+- London Food Month
 - Hippodrome Casino
 - Mills International School
 - Innocent Smoothies Recycling
