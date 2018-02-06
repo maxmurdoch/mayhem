@@ -9,10 +9,10 @@ clients:
 - Mountain Dew
 - NBA
 - Strawberries & Creem Festival
-about: '<p align="justify"> Welcome to Mayhem Live! We travel the globe to stream
-  a number of concerts, tournaments, debates, and events straight to Facebook, Twitch
-  and YouTube. Mayhem Live isn’t just about streaming content but interacting with
-  viewers throughout the stream to maximise reach, influence and grow your brand. '
+about: 'Welcome to Mayhem Live! We travel the globe to stream a number of concerts,
+  tournaments, debates, and events straight to Facebook, Twitch and YouTube. Mayhem
+  Live isn’t just about streaming content but interacting with viewers throughout
+  the stream to maximise reach, influence and grow your brand. '
 link: "/live"
 ---
 
