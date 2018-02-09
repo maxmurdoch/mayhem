@@ -18,7 +18,8 @@ clients:
 - Phoenix Group
 - Seedrs
 - University of York
-about: 'Corporate is smart suit and we’re the men in black. We deliver your message
+first-sentence: Corporate is smart suit and we’re the men in black.
+about: 'We deliver your message
   clearly, effectively and professionally. Mayhem Corporate has a track record of
   providing both internal and external facing videos. We produce everything from interviews
   with business leaders to animated infomercials. '

@@ -9,7 +9,8 @@ clients:
 - Mountain Dew
 - NBA
 - Strawberries & Creem Festival
-about: "Welcome to Mayhem Live! Live is a honeycomb of 2018 and we’re the queen bees.
+first-sentence: "Welcome to Mayhem Live!"
+about: "Live is a honeycomb of 2018 and we’re the queen bees.
   \nIn terms of reaching your audience, live is a real game changer. We travel across
   the globe to stream a number of concerts, tournaments, debates, and events straight
   to Facebook, Twitch and YouTube. Mayhem Live isn’t just about streaming content
