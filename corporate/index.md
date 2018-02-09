@@ -6,11 +6,11 @@ showcase:
 - Creative Business Course
 - Tea Party
 - We Are York
-- London Food Month
+- Iqos tutorial
 - Heart of London
 - One Step Ahead
-- Recycling
 - Invest with us
+- London Food Month
 link: "/corporate"
 layout: sub-brand
 ---
