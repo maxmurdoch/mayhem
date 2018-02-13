@@ -1,8 +1,7 @@
 ---
 title: Mayhem
 logo: "/uploads/mayhem-logo.png"
-background-image: "/uploads/David_i.jpg"
-layout: blank
+background-image: "/uploads/chopper%20thumb%20small.jpg"
 nav:
   branded:
     text: Branded
@@ -16,5 +15,6 @@ nav:
   corporate:
     text: Corporate
     link: "/corporate"
+layout: blank
 ---
 

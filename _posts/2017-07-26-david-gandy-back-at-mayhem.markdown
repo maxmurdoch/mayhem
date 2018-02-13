@@ -1,6 +1,7 @@
 ---
 title: David Gandy back at Mayhem
 date: 2017-07-26 10:07:00 Z
+brand: branded
 thumbnail-image: "/uploads/Gandy-3.jpg"
 header-image: "/uploads/Gandy2.jpg"
 header-caption: David Gandy

@@ -1,6 +1,7 @@
 ---
 title: Katie Mitchell - La Maladie De La Mort
 date: 2017-12-12 12:48:00 Z
+brand: live
 thumbnail-image: "/uploads/STa.jpg"
 header-image: "/uploads/STa.jpg"
 ---

@@ -2,9 +2,12 @@
 title: Live
 brand: live
 showcase:
-- NBA All Star Europe LIVE
-- Strawberries & Creem Festival
+- Mayhem Live
+- NBA 2K Europe LIVE
 - Guinness World Records
+- Strawberries & Creem Festival
+- Live Acoustic Set
+- GREAT BRITISH BUTLER
 link: "/live"
 layout: sub-brand
 ---

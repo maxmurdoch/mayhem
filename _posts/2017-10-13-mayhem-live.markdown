@@ -1,6 +1,7 @@
 ---
 title: Mayhem Live!
 date: 2017-10-13 09:51:00 Z
+brand: live
 thumbnail-image: "/uploads/DSC03257%20copy.jpg"
 header-image: "/uploads/DSC0325ss7%20copy.jpg"
 breadcrumb: Mayhem Live!

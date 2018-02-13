@@ -3,17 +3,16 @@ title: Sport
 brand: sport
 link: "/live"
 showcase:
+- Edge Of Glory
 - Spice Up Your Gym Life
 - The British & Irish Lions
-- This is why we play
-- Lets do this
-- What a delivery
-- Edge Of Glory
 - Nothing in your way
-- "#myhome"
-- Guinness World Records
+- Let's do this
 - Carboot Shootout
+- "#myhome"
+- What a delivery
 - LTA - Cambridge Tennis
+- This is why we play
 layout: sub-brand
 ---
 

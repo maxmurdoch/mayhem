@@ -1,6 +1,7 @@
 ---
 title: Filming in Guernsey with Billy Le Poullain
 date: 2017-11-30 15:41:00 Z
+brand: sport
 thumbnail-image: "/uploads/DPgFAGoX4AAHBms.jpg-large.jpg"
 header-image: "/uploads/DODeN0aW4AELo_z.jpg-large.jpg"
 ---

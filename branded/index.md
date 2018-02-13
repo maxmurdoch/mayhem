@@ -5,13 +5,15 @@ showcase:
 - Teach a man to fish
 - The British & Irish Lions
 - Gentleman's Journal
-- What a delivery
-- New Wave Jeans
+- Logo launch
 - Carboot Shootout
+- Father's Day
+- What a delivery
 - Cotman brush pen set
+- What's next?
+- 24 Hours in Monaco
+- New Wave Jeans
 - Centrepoint
-- David Gandy's 24 Hour in Monaco
-- Olympus TG-4
 link: "/branded/"
 layout: sub-brand
 ---

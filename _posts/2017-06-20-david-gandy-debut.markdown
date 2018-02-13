@@ -4,6 +4,7 @@ date: 2017-06-20 19:09:00 Z
 tags:
 - gandy
 - gentlemans journal
+brand: branded
 thumbnail-image: "/uploads/Screen%20Shot%202017-06-29%20at%2020.12.03.jpg"
 header-image: "/uploads/Screen%20Shot%202017-06-29%20at%2020.12.03.jpg"
 breadcrumb: David Gandy Directing Debut

@@ -5,6 +5,7 @@ categories:
 - sport
 tags:
 - sport
+brand: sport
 thumbnail-image: "/uploads/EVNT-British-and-Irish-Lions-Logo-Lock-Up-POS-RGB.jpg"
 header-image: "/uploads/EVNT-British-and-Irish-Lions-Logo-Lock-Up-POS-RGB.jpg"
 breadcrumb: Qantas & Lions
