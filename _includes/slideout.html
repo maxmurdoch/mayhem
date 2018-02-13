@@ -9,6 +9,7 @@
             {% for item in site.navigation %}
             <p class="nav-item black-80 pointer ma0 link lh-title f5 fw3 nimbus-sans ttu tracked" data-tab data-tab-for="{{item.title}}">{{ item.title | capitalize }}</p>
             {% endfor %}
+            <a class="nav-item o-60 black-80 ma0 w-third w-100-ns link pointer lh-title f5 fw3 ttu tracked" href="/">Home</a>
           </div>
         </nav>
 
@@ -18,7 +19,8 @@
           </div>
           <div class="w-100">
             <p class="box f6 f5-l fw3 lh-copy ma0">
-              {{ brand.about }}
+              <span class="black-100">{{ brand['first-sentence'] }}</span>
+              <span class="black-50">{{ brand.about }}</span>
             </p>
           </div>
         </div>

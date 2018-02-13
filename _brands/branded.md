@@ -27,10 +27,10 @@ clients:
 - Turnbull & Asser
 - V&A Museum
 - Winsor & Newton
-about: The key to content is impact and we’re the locksmiths. We create engaging and
-  original concepts tailored to your brand values. Mayhem Branded isn’t about traditional
-  advertising, it's about delivering content in a dynamic and fun way. Talking points
-  in seconds!
+first-sentence: The key to content is impact and we’re the locksmiths.
+about: We create engaging and original concepts tailored to your brand values. Mayhem
+  Branded isn’t about traditional advertising, it's about delivering content in a
+  dynamic and fun way. Talking points in seconds!
 link: "/branded"
 ---
 
