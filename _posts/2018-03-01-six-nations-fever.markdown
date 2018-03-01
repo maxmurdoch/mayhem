@@ -1,6 +1,7 @@
 ---
 title: Six Nations fever!
 date: 2018-03-01 15:33:00 Z
+brand: sport
 thumbnail-image: "/uploads/rugbypod.jpg"
 header-image: "/uploads/Screen%20Shot%202018-03-01%20at%2016.00.14.png"
 ---
