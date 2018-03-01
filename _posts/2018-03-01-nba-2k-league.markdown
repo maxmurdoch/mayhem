@@ -1,6 +1,7 @@
 ---
 title: NBA 2K League
 date: 2018-03-01 15:42:00 Z
+brand: branded
 thumbnail-image: "/uploads/Screen%20Shot%202018-03-01%20at%2015.28.21dfsfd.jpg"
 header-image: "/uploads/Screen%20Shot%202018-03-01%20at%2015.28.21dfsfd.jpg"
 ---
