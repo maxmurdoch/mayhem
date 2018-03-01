@@ -9,11 +9,11 @@ showcase:
 - Carboot Shootout
 - Father's Day
 - What a delivery
-- Cotman brush pen set
+- Curry Leaf
 - What's next?
 - 24 Hours in Monaco
 - New Wave Jeans
-- Curry Leaf
+- Cotman brush pen set
 link: "/branded/"
 layout: sub-brand
 ---
