@@ -2,7 +2,7 @@
 title: The Rugby Pod
 date: 2018-03-01 15:33:00 Z
 brand: sport
-thumbnail-image: "/uploads/rugbypod.jpg"
+thumbnail-image: "/uploads/sdfsdf.jpg"
 header-image: "/uploads/sdfsdf.jpg"
 ---
 
