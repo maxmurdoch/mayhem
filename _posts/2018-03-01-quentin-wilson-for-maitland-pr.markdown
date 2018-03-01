@@ -1,6 +1,7 @@
 ---
 title: Quentin Wilson for Maitland PR
 date: 2018-03-01 15:45:00 Z
+brand: corporate
 thumbnail-image: "/uploads/MAITLAND.jpg"
 header-image: "/uploads/MAITLAND-790030.jpg"
 ---
