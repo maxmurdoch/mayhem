@@ -13,7 +13,7 @@ showcase:
 - What's next?
 - 24 Hours in Monaco
 - New Wave Jeans
-- Centrepoint
+- Curry Leaf
 link: "/branded/"
 layout: sub-brand
 ---
