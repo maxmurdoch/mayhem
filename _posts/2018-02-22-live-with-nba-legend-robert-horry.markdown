@@ -1,6 +1,7 @@
 ---
 title: Live with NBA Legend Robert Horry!
 date: 2018-02-22 15:35:00 Z
+brand: live
 thumbnail-image: "/uploads/feww.jpg"
 header-image: "/uploads/feww.jpg"
 ---
