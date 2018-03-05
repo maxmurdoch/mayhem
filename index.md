@@ -1,7 +1,7 @@
 ---
 title: Mayhem
 logo: "/uploads/mayhem-logo.png"
-background-image: "/uploads/FRONT%20BANNER%209.jpg"
+background-image: "/uploads/WEB%20BANNER%2010.jpg"
 nav:
   branded:
     text: Branded
