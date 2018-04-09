@@ -1,7 +1,7 @@
 ---
 title: Sport
 brand: sport
-link: "/live"
+link: "/sport"
 showcase:
 - Edge Of Glory
 - Spice Up Your Gym Life
