@@ -11,7 +11,6 @@ showcase:
 - Carboot Shootout
 - What Will You Do Next?
 - "#myhome"
-- What a delivery
 - Porsche Carrera Cup
 - LTA - Cambridge Tennis
 - This is why we play
