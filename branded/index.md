@@ -8,10 +8,10 @@ showcase:
 - Logo launch
 - Carboot Shootout
 - Father's Day
-- What a delivery
+- 24 Hours in Monaco
 - Curry Leaf
 - What's next?
-- 24 Hours in Monaco
+- What a delivery
 - New Wave Jeans
 - Cotman brush pen set
 link: "/branded/"
