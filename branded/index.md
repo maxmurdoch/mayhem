@@ -14,6 +14,7 @@ showcase:
 - What a delivery
 - New Wave Jeans
 - Cotman brush pen set
+- Naturally Sourced
 link: "/branded/"
 layout: sub-brand
 ---
