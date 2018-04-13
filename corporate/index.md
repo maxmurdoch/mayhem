@@ -5,13 +5,13 @@ showcase:
 - People Not Parties
 - Creative Business Course
 - Tea Party
-- We Are York
+- Naturally Sourced
 - Iqos tutorial
 - Heart of London
 - One Step Ahead
 - Invest with us
 - London Food Month
-- Naturally Sourced
+- We Are York
 link: "/corporate"
 layout: sub-brand
 ---
