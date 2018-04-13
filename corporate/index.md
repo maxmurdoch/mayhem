@@ -11,6 +11,7 @@ showcase:
 - One Step Ahead
 - Invest with us
 - London Food Month
+- Naturally Sourced
 link: "/corporate"
 layout: sub-brand
 ---
