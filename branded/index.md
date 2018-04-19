@@ -7,7 +7,7 @@ showcase:
 - Gentleman's Journal
 - Logo launch
 - Carboot Shootout
-- Father's Day
+- English Tea Shop
 - 24 Hours in Monaco
 - Curry Leaf
 - What's next?
