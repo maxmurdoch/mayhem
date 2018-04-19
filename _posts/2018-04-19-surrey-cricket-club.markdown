@@ -1,6 +1,7 @@
 ---
 title: Surrey Cricket Club
 date: 2018-04-19 13:40:00 Z
+brand: sport
 thumbnail-image: "/uploads/Cricket-1.jpg"
 header-image: "/uploads/Cricket-1-2.jpg"
 ---
