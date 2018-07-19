@@ -2,7 +2,7 @@
 title: Nile Wilson & Samantha Clayton
 date: 2018-04-13 14:30:00 Z
 vimeoid: 270071331
-image: "/uploads/YO.jpg"
+image: "/uploads/SAM%20NILE.jpg"
 subtitle: Herbalife
 ---
 
