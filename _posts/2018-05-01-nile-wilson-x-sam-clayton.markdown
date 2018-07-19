@@ -1,5 +1,5 @@
 ---
-title: Nile Wilson x Sam Clayton
+title: Nile Wilson x Sam Clayton (Herbalife)
 date: 2018-05-01 11:57:00 Z
 brand: branded
 thumbnail-image: "/uploads/SAM%20NILE.jpg"
