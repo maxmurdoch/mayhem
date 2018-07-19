@@ -5,6 +5,7 @@ brand: branded
 thumbnail-image: "/uploads/s.jpg"
 header-image: "/uploads/ds.jpg"
 video:
+  is-visible: true
   vimeoid: 266740490
   image: "/uploads/ds.jpg"
 ---
