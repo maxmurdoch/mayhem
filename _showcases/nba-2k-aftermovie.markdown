@@ -1,8 +1,8 @@
 ---
-title: NBA 2K AFTERMOVIE
+title: NBA2K League Spot
 date: 2018-05-01 11:49:00 Z
-vimeoid: 267274884
-image: "/uploads/NBA%202K.jpg"
-subtitle: 2018 DRAFT WEEK
+vimeoid: 279009569
+image: "/uploads/fds.jpg"
+subtitle: Intel
 ---
 
